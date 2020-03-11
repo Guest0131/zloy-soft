@@ -1,0 +1,238 @@
+[2018.02.19 13:29:21] init
+[2018.02.19 13:29:21] null
+[2018.02.19 13:29:22] checkAnswer
+[2018.02.19 13:29:22] {"is_solved":false,"fail_compare_table":[{"type":"header","data":["double_factorial","\u0412\u0430\u0448\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435","\u042d\u0442\u0430\u043b\u043e\u043d\u043d\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435"]},{"type":"body","data":[["$__arg1","<span style=\"white-space: pre-wrap\">0<\/span>","<span style=\"white-space: pre-wrap\">0<\/span>"]]},{"type":"header","data":["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442"]},{"type":"body","data":[["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442","<span style=\"white-space: pre-wrap\"><span class=\"bg-lightRed\">false<\/span><\/span>","<span style=\"white-space: pre-wrap\">1<\/span>"],["\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f","   0.00001","   0.00001"]],"control_fields":{"\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f":true,"\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442":false}}]}
+[2018.02.19 13:29:30] init
+[2018.02.19 13:29:30] null
+[2018.02.19 13:29:31] checkAnswer
+[2018.02.19 13:29:31] {"is_solved":true}
+[2018.02.19 13:30:16] init
+[2018.02.19 13:30:16] null
+[2018.02.19 13:30:17] checkAnswer
+[2018.02.19 13:30:17] {"is_solved":true}
+[2018.02.19 13:30:24] init
+[2018.02.19 13:30:24] null
+[2018.02.19 13:30:25] checkAnswer
+[2018.02.19 13:30:25] {"is_solved":false,"fail_compare_table":[{"type":"header","data":["max_prime","\u0412\u0430\u0448\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435","\u042d\u0442\u0430\u043b\u043e\u043d\u043d\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435"]},{"type":"body","data":[["$__arg1","<span style=\"white-space: pre-wrap\">4<\/span>","<span style=\"white-space: pre-wrap\">4<\/span>"]]},{"type":"header","data":["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442"]},{"type":"body","data":[["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442","<span style=\"white-space: pre-wrap\"><span class=\"bg-lightRed\">1<\/span><\/span>","<span style=\"white-space: pre-wrap\">2<\/span>"],["\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f","   0.00005","   0.00002"]],"control_fields":{"\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f":false,"\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442":false}}]}
+[2018.02.19 13:30:40] init
+[2018.02.19 13:30:40] null
+[2018.02.19 13:30:41] checkAnswer
+[2018.02.19 13:30:41] {"is_solved":true}
+[2018.02.19 13:30:45] init
+[2018.02.19 13:30:45] null
+[2018.02.19 13:30:46] checkAnswer
+[2018.02.19 13:30:46] {"is_solved":true}
+[2018.02.19 13:32:30] init
+[2018.02.19 13:32:30] null
+[2018.02.19 13:32:31] checkAnswer
+[2018.02.19 13:32:31] {"is_solved":true}
+[2018.02.19 13:32:36] init
+[2018.02.19 13:32:36] null
+[2018.02.19 13:32:37] checkAnswer
+[2018.02.19 13:32:37] {"is_solved":false,"fail_compare_table":[{"type":"header","data":["max_perfect","\u0412\u0430\u0448\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435","\u042d\u0442\u0430\u043b\u043e\u043d\u043d\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435"]},{"type":"body","data":[["$__arg1","<span style=\"white-space: pre-wrap\">30<\/span>","<span style=\"white-space: pre-wrap\">30<\/span>"]]},{"type":"header","data":["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442"]},{"type":"body","data":[["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442","<span style=\"white-space: pre-wrap\"><span class=\"bg-lightRed\">16<\/span><\/span>","<span style=\"white-space: pre-wrap\">28<\/span>"],["\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f","   0.00010","   0.00003"]],"control_fields":{"\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f":false,"\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442":false}}]}
+[2018.02.19 13:32:47] init
+[2018.02.19 13:32:47] null
+[2018.02.19 13:32:48] checkAnswer
+[2018.02.19 13:32:48] {"is_solved":true}
+[2018.02.19 20:18:20] init
+[2018.02.19 20:18:20] null
+[2018.02.19 20:18:22] checkAnswer
+[2018.02.19 20:18:22] {"is_solved":true}
+[2018.02.19 20:20:13] init
+[2018.02.19 20:20:13] null
+[2018.02.19 20:20:13] checkAnswer
+[2018.02.19 20:20:13] {"is_solved":false,"errors":["\u0417\u0430\u043f\u0440\u0435\u0449\u0435\u043d\u043d\u043e \u043a \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044e: <b>abs<\/b>"],"warnings":["<b>\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438 \u0438\u0437 \u0442\u0435\u043c<\/b>:<br \/>"]}
+[2018.02.19 20:22:00] init
+[2018.02.19 20:22:00] null
+[2018.02.19 20:22:00] checkAnswer
+[2018.02.19 20:22:00] {"is_solved":false,"errors":["\u0417\u0430\u043f\u0440\u0435\u0449\u0435\u043d\u043d\u043e \u043a \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044e: <b>abs<\/b>"],"warnings":["<b>\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438 \u0438\u0437 \u0442\u0435\u043c<\/b>:<br \/><br \/><b>\u0417\u0430\u043f\u0440\u0435\u0449\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438<\/b>:<br \/>abs"]}
+[2018.02.19 20:22:18] init
+[2018.02.19 20:22:18] null
+[2018.02.19 20:22:18] checkAnswer
+[2018.02.19 20:22:18] {"is_solved":false,"errors":["\u0417\u0430\u043f\u0440\u0435\u0449\u0435\u043d\u043d\u043e \u043a \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044e: <b>intdiv<\/b>"],"warnings":["<b>\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438 \u0438\u0437 \u0442\u0435\u043c<\/b>:<br \/><br \/><b>\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438<\/b>:<br \/>abs"]}
+[2018.02.19 20:22:31] init
+[2018.02.19 20:22:31] null
+[2018.02.19 20:22:34] checkAnswer
+[2018.02.19 20:22:34] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2018.02.19 21:00:39] init
+[2018.02.19 21:00:39] null
+[2018.02.19 21:00:41] checkAnswer
+[2018.02.19 21:00:41] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2018.02.19 21:00:52] init
+[2018.02.19 21:00:52] null
+[2018.02.19 21:00:56] checkAnswer
+[2018.02.19 21:00:56] <br />
+[2018.02.19 21:00:56] <b>Warning</b>:  file_get_contents(/tmp/filestmp/result.txt): failed to open stream: No such file or directory in <b>/var/www/html/revenge/lib/Solver/PHP/PHP.php</b> on line <b>101</b><br />
+[2018.02.19 21:00:56] null
+[2018.02.19 21:01:10] init
+[2018.02.19 21:01:10] null
+[2018.02.19 21:01:11] checkAnswer
+[2018.02.19 21:01:11] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2018.02.19 21:01:29] init
+[2018.02.19 21:01:29] null
+[2018.02.19 21:01:31] checkAnswer
+[2018.02.19 21:01:31] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2018.02.19 21:01:53] init
+[2018.02.19 21:01:53] null
+[2018.02.19 21:01:55] checkAnswer
+[2018.02.19 21:01:55] <br />
+[2018.02.19 21:01:55] <b>Warning</b>:  file_get_contents(/tmp/filestmp/result.txt): failed to open stream: No such file or directory in <b>/var/www/html/revenge/lib/Solver/PHP/PHP.php</b> on line <b>101</b><br />
+[2018.02.19 21:01:55] null
+[2018.02.19 21:02:11] init
+[2018.02.19 21:02:11] null
+[2018.02.19 21:02:13] checkAnswer
+[2018.02.19 21:02:13] <br />
+[2018.02.19 21:02:13] <b>Warning</b>:  file_get_contents(/tmp/filestmp/result.txt): failed to open stream: No such file or directory in <b>/var/www/html/revenge/lib/Solver/PHP/PHP.php</b> on line <b>101</b><br />
+[2018.02.19 21:02:13] null
+[2018.02.19 21:02:32] init
+[2018.02.19 21:02:32] null
+[2018.02.19 21:02:33] checkAnswer
+[2018.02.19 21:02:33] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2018.02.19 21:02:52] init
+[2018.02.19 21:02:52] null
+[2018.02.19 21:02:54] checkAnswer
+[2018.02.19 21:02:54] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2018.02.19 21:03:15] init
+[2018.02.19 21:03:15] null
+[2018.02.19 21:03:17] checkAnswer
+[2018.02.19 21:03:17] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2018.02.19 21:03:28] init
+[2018.02.19 21:03:28] null
+[2018.02.19 21:03:30] checkAnswer
+[2018.02.19 21:03:30] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2018.02.19 21:07:47] init
+[2018.02.19 21:07:47] null
+[2018.02.19 21:07:49] checkAnswer
+[2018.02.19 21:07:49] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2018.02.19 21:08:00] init
+[2018.02.19 21:08:00] null
+[2018.02.19 21:08:02] checkAnswer
+[2018.02.19 21:08:02] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2018.02.19 21:08:07] init
+[2018.02.19 21:08:07] null
+[2018.02.19 21:08:09] checkAnswer
+[2018.02.19 21:08:09] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2018.02.19 21:09:50] init
+[2018.02.19 21:09:50] null
+[2018.02.19 21:09:52] checkAnswer
+[2018.02.19 21:09:52] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2018.02.19 21:10:04] init
+[2018.02.19 21:10:04] null
+[2018.02.19 21:10:06] checkAnswer
+[2018.02.19 21:10:06] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2018.02.19 21:10:59] init
+[2018.02.19 21:10:59] null
+[2018.02.19 21:11:01] checkAnswer
+[2018.02.19 21:11:01] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2018.02.19 21:11:05] init
+[2018.02.19 21:11:05] null
+[2018.02.19 21:11:07] checkAnswer
+[2018.02.19 21:11:07] <br />
+[2018.02.19 21:11:07] <b>Warning</b>:  file_get_contents(/tmp/filestmp/result.txt): failed to open stream: No such file or directory in <b>/var/www/html/revenge/lib/Solver/PHP/PHP.php</b> on line <b>101</b><br />
+[2018.02.19 21:11:07] null
+[2018.02.19 21:11:14] init
+[2018.02.19 21:11:14] null
+[2018.02.19 21:11:16] checkAnswer
+[2018.02.19 21:11:16] <br />
+[2018.02.19 21:11:16] <b>Warning</b>:  file_get_contents(/tmp/filestmp/result.txt): failed to open stream: No such file or directory in <b>/var/www/html/revenge/lib/Solver/PHP/PHP.php</b> on line <b>101</b><br />
+[2018.02.19 21:11:16] null
+[2018.02.19 21:11:23] init
+[2018.02.19 21:11:23] null
+[2018.02.19 21:11:25] checkAnswer
+[2018.02.19 21:11:25] <br />
+[2018.02.19 21:11:25] <b>Warning</b>:  file_get_contents(/tmp/filestmp/result.txt): failed to open stream: No such file or directory in <b>/var/www/html/revenge/lib/Solver/PHP/PHP.php</b> on line <b>101</b><br />
+[2018.02.19 21:11:25] null
+[2018.02.19 21:11:50] init
+[2018.02.19 21:11:50] null
+[2018.02.19 21:11:52] checkAnswer
+[2018.02.19 21:11:52] {"is_solved":false,"fail_compare_table":[{"type":"header","data":["digital_convertion","\u0412\u0430\u0448\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435","\u042d\u0442\u0430\u043b\u043e\u043d\u043d\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435"]},{"type":"body","data":[["$__arg1","<span style=\"white-space: pre-wrap\">17<\/span>","<span style=\"white-space: pre-wrap\">17<\/span>"]]},{"type":"header","data":["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442"]},{"type":"body","data":[["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442","<span style=\"white-space: pre-wrap\"><span class=\"bg-lightRed\">17<\/span><\/span>","<span style=\"white-space: pre-wrap\">false<\/span>"],["\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f","   0.00009","   0.00024"]],"control_fields":{"\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f":true,"\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442":false}}]}
+[2018.02.19 21:13:51] init
+[2018.02.19 21:13:51] null
+[2018.02.19 21:13:53] checkAnswer
+[2018.02.19 21:13:53] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2018.02.19 21:14:16] init
+[2018.02.19 21:14:16] <br />
+[2018.02.19 21:14:16] <b>Fatal error</b>:  Non-abstract method Solver_PHP_Task::digital_convertion() must contain body in <b>/tmp/filestmp/task.php</b> on line <b>40</b><br />
+[2018.02.19 21:14:16] checkAnswer
+[2018.02.19 21:14:16] <br />
+[2018.02.19 21:14:16] <b>Fatal error</b>:  Non-abstract method Solver_PHP_Task::digital_convertion() must contain body in <b>/tmp/filestmp/task.php</b> on line <b>40</b><br />
+[2018.02.19 21:15:20] init
+[2018.02.19 21:15:20] null
+[2018.02.19 21:15:22] checkAnswer
+[2018.02.19 21:15:22] {"is_solved":true}
+[2018.02.19 21:16:20] init
+[2018.02.19 21:16:20] null
+[2018.02.19 21:16:22] checkAnswer
+[2018.02.19 21:16:22] {"is_solved":false,"fail_compare_table":[{"type":"header","data":["digital_convertion","\u0412\u0430\u0448\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435","\u042d\u0442\u0430\u043b\u043e\u043d\u043d\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435"]},{"type":"body","data":[["$__arg1","<span style=\"white-space: pre-wrap\">17<\/span>","<span style=\"white-space: pre-wrap\">17<\/span>"],["$__arg2","<span style=\"white-space: pre-wrap\">30<\/span>","<span style=\"white-space: pre-wrap\">30<\/span>"]]},{"type":"header","data":["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442"]},{"type":"body","data":[["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442","<span style=\"white-space: pre-wrap\"><span class=\"bg-lightRed\">47<\/span><\/span>","<span style=\"white-space: pre-wrap\">false<\/span>"],["\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f","   0.00018","   0.00004"]],"control_fields":{"\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f":false,"\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442":false}}]}
+[2018.02.19 21:16:55] init
+[2018.02.19 21:16:55] <br />
+[2018.02.19 21:16:55] <b>Parse error</b>:  syntax error, unexpected '*' in <b>/tmp/filestmp/task.php</b> on line <b>57</b><br />
+[2018.02.19 21:16:55] checkAnswer
+[2018.02.19 21:16:55] <br />
+[2018.02.19 21:16:55] <b>Parse error</b>:  syntax error, unexpected '*' in <b>/tmp/filestmp/task.php</b> on line <b>57</b><br />
+[2018.02.19 21:17:45] init
+[2018.02.19 21:17:45] null
+[2018.02.19 21:17:47] checkAnswer
+[2018.02.19 21:17:47] {"is_solved":false,"fail_compare_table":[{"type":"header","data":["digital_convertion","\u0412\u0430\u0448\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435","\u042d\u0442\u0430\u043b\u043e\u043d\u043d\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435"]},{"type":"body","data":[["$__arg1","<span style=\"white-space: pre-wrap\">17<\/span>","<span style=\"white-space: pre-wrap\">17<\/span>"],["$__arg2","<span style=\"white-space: pre-wrap\">30<\/span>","<span style=\"white-space: pre-wrap\">30<\/span>"]]},{"type":"header","data":["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442"]},{"type":"body","data":[["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442","<span style=\"white-space: pre-wrap\"><span class=\"bg-lightRed\">47<\/span><\/span>","<span style=\"white-space: pre-wrap\">false<\/span>"],["\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f","   0.00010","   0.00004"]],"control_fields":{"\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f":false,"\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442":false}}]}
+[2018.02.19 21:18:33] init
+[2018.02.19 21:18:33] null
+[2018.02.19 21:18:35] checkAnswer
+[2018.02.19 21:18:35] {"is_solved":false,"fail_compare_table":[{"type":"header","data":["digital_convertion","\u0412\u0430\u0448\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435","\u042d\u0442\u0430\u043b\u043e\u043d\u043d\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435"]},{"type":"body","data":[["$__arg1","<span style=\"white-space: pre-wrap\">17<\/span>","<span style=\"white-space: pre-wrap\">17<\/span>"],["$__arg2","<span style=\"white-space: pre-wrap\">30<\/span>","<span style=\"white-space: pre-wrap\">30<\/span>"]]},{"type":"header","data":["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442"]},{"type":"body","data":[["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442","<span style=\"white-space: pre-wrap\"><span class=\"bg-lightRed\">47<\/span><\/span>","<span style=\"white-space: pre-wrap\">false<\/span>"],["\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f","   0.00009","   0.00004"]],"control_fields":{"\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f":false,"\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442":false}}]}
+[2018.02.19 21:18:54] init
+[2018.02.19 21:18:54] null
+[2018.02.19 21:18:54] checkAnswer
+[2018.02.19 21:18:54] {"is_solved":false,"errors":["\u0417\u0430\u043f\u0440\u0435\u0449\u0435\u043d\u043d\u043e \u043a \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044e: <b>abs<\/b>"],"warnings":["<b>\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438 \u0438\u0437 \u0442\u0435\u043c<\/b>:<br \/>"]}
+[2018.02.19 21:19:14] init
+[2018.02.19 21:19:14] null
+[2018.02.19 21:19:17] checkAnswer
+[2018.02.19 21:19:17] {"is_solved":true}
+[2018.02.19 21:19:23] init
+[2018.02.19 21:19:23] null
+[2018.02.19 21:19:25] checkAnswer
+[2018.02.19 21:19:25] {"is_solved":true}
+[2018.02.19 21:19:33] init
+[2018.02.19 21:19:33] null
+[2018.02.19 21:19:35] checkAnswer
+[2018.02.19 21:19:35] {"is_solved":true}
+[2018.02.19 21:21:00] init
+[2018.02.19 21:21:00] null
+[2018.02.19 21:21:02] checkAnswer
+[2018.02.19 21:21:02] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2018.02.19 21:21:34] init
+[2018.02.19 21:21:34] null
+[2018.02.19 21:21:36] checkAnswer
+[2018.02.19 21:21:36] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2018.02.19 21:21:57] init
+[2018.02.19 21:21:57] null
+[2018.02.19 21:21:59] checkAnswer
+[2018.02.19 21:21:59] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2018.02.19 21:26:32] init
+[2018.02.19 21:26:32] null
+[2018.02.19 21:26:34] checkAnswer
+[2018.02.19 21:26:34] <br />
+[2018.02.19 21:26:34] <b>Warning</b>:  file_get_contents(/tmp/filestmp/result.txt): failed to open stream: No such file or directory in <b>/var/www/html/revenge/lib/Solver/PHP/PHP.php</b> on line <b>101</b><br />
+[2018.02.19 21:26:34] null
+[2018.02.19 21:26:58] init
+[2018.02.19 21:26:58] null
+[2018.02.19 21:27:00] checkAnswer
+[2018.02.19 21:27:00] {"is_solved":true}
+[2018.02.19 21:27:12] init
+[2018.02.19 21:27:12] null
+[2018.02.19 21:27:14] checkAnswer
+[2018.02.19 21:27:14] {"is_solved":true}
+[2018.02.19 21:27:47] init
+[2018.02.19 21:27:47] null
+[2018.02.19 21:27:49] checkAnswer
+[2018.02.19 21:27:49] {"is_solved":true}
+[2018.02.19 21:28:13] init
+[2018.02.19 21:28:13] null
+[2018.02.19 21:28:15] checkAnswer
+[2018.02.19 21:28:15] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2018.02.19 21:28:34] init
+[2018.02.19 21:28:34] null
+[2018.02.19 21:28:36] checkAnswer
+[2018.02.19 21:28:36] {"is_solved":false,"fail_compare_table":[{"type":"header","data":["digital_convertion","\u0412\u0430\u0448\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435","\u042d\u0442\u0430\u043b\u043e\u043d\u043d\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435"]},{"type":"body","data":[["$__arg1","<span style=\"white-space: pre-wrap\">17<\/span>","<span style=\"white-space: pre-wrap\">17<\/span>"],["$__arg2","<span style=\"white-space: pre-wrap\">3<\/span>","<span style=\"white-space: pre-wrap\">3<\/span>"]]},{"type":"header","data":["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442"]},{"type":"body","data":[["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442","<span style=\"white-space: pre-wrap\"><span class=\"bg-lightRed\">3<\/span><\/span>","<span style=\"white-space: pre-wrap\">2<\/span>"],["\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f","   0.00011","   0.00004"]],"control_fields":{"\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f":false,"\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442":false}}]}
+[2018.02.19 21:28:40] init
+[2018.02.19 21:28:40] null
+[2018.02.19 21:28:43] checkAnswer
+[2018.02.19 21:28:43] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}

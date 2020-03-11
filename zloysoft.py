@@ -51,6 +51,8 @@ def parse_solition(div):
             type = re.findall(r"Type = \"(.*)\"", f)[0]
             if('ulti' in type):
                 res.append(re.findall(r"ulti\s?\[\]\s?=\s?\"(.*)\n", f))
+            elif('ext' in type):
+                res.append(re.findall(r"ext\s?\[\]\s?=\s?\"(.*)\n", f))
             else:
                 res.append(re.findall(r"ingle\s?=\s?\"(.*)\n", f))
             if (len(res) > -1):

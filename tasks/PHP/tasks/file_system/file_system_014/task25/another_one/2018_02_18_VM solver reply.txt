@@ -1,0 +1,184 @@
+[2018.02.18 13:33:55] init
+[2018.02.18 13:33:55] null
+[2018.02.18 13:33:56] checkAnswer
+[2018.02.18 13:33:56] {"is_solved":true}
+[2018.02.18 13:34:00] init
+[2018.02.18 13:34:00] null
+[2018.02.18 13:34:01] checkAnswer
+[2018.02.18 13:34:01] {"is_solved":false,"fail_compare_table":[{"type":"header","data":["double_factorial","\u0412\u0430\u0448\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435","\u042d\u0442\u0430\u043b\u043e\u043d\u043d\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435"]},{"type":"body","data":[["$__arg1","<span style=\"white-space: pre-wrap\">7<\/span>","<span style=\"white-space: pre-wrap\">7<\/span>"]]},{"type":"header","data":["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442"]},{"type":"body","data":[["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442","<span style=\"white-space: pre-wrap\"><span class=\"bg-lightRed\">210<\/span><\/span>","<span style=\"white-space: pre-wrap\">105<\/span>"],["\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f","   0.00005","   0.00002"]],"control_fields":{"\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f":false,"\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442":false}}]}
+[2018.02.18 15:49:18] init
+[2018.02.18 15:49:18] null
+[2018.02.18 15:49:21] checkAnswer
+[2018.02.18 15:49:21] {"is_solved":true}
+[2018.02.18 15:49:27] init
+[2018.02.18 15:49:27] null
+[2018.02.18 15:49:28] checkAnswer
+[2018.02.18 15:49:28] {"is_solved":false,"fail_compare_table":[{"type":"header","data":["double_factorial","\u0412\u0430\u0448\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435","\u042d\u0442\u0430\u043b\u043e\u043d\u043d\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435"]},{"type":"body","data":[["$__arg1","<span style=\"white-space: pre-wrap\">10<\/span>","<span style=\"white-space: pre-wrap\">10<\/span>"]]},{"type":"header","data":["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442"]},{"type":"body","data":[["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442","<span style=\"white-space: pre-wrap\"><span class=\"bg-lightRed\">1920<\/span><\/span>","<span style=\"white-space: pre-wrap\">3840<\/span>"],["\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f","   0.00003","   0.00001"]],"control_fields":{"\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f":false,"\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442":false}}]}
+[2018.02.18 15:50:30] init
+[2018.02.18 15:50:30] null
+[2018.02.18 15:50:31] checkAnswer
+[2018.02.18 15:50:31] {"is_solved":false,"errors":["\u0417\u0430\u043f\u0440\u0435\u0449\u0435\u043d\u043d\u043e \u043a \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044e: <b>round<\/b>"],"warnings":["<b>\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438 \u0438\u0437 \u0442\u0435\u043c<\/b>:<br \/>"]}
+[2018.02.18 15:51:04] init
+[2018.02.18 15:51:04] null
+[2018.02.18 15:51:04] checkAnswer
+[2018.02.18 15:51:04] {"is_solved":false,"errors":["\u0417\u0430\u043f\u0440\u0435\u0449\u0435\u043d\u043d\u043e \u043a \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044e: <b>floor<\/b>"],"warnings":["<b>\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438 \u0438\u0437 \u0442\u0435\u043c<\/b>:<br \/>"]}
+[2018.02.18 15:51:42] init
+[2018.02.18 15:51:42] null
+[2018.02.18 15:51:42] checkAnswer
+[2018.02.18 15:51:42] <br />
+[2018.02.18 15:51:42] <b>Notice</b>:  Use of undefined constant round - assumed 'round' in <b>/var/www/html/revenge/lib/Solver/PHP/PHP.php</b> on line <b>61</b><br />
+[2018.02.18 15:51:42] <br />
+[2018.02.18 15:51:42] <b>Notice</b>:  Use of undefined constant round - assumed 'round' in <b>/var/www/html/revenge/lib/Solver/PHP/PHP.php</b> on line <b>61</b><br />
+[2018.02.18 15:51:42] <br />
+[2018.02.18 15:51:42] <b>Notice</b>:  Undefined index: round in <b>/var/www/html/revenge/lib/PHPReferences.php</b> on line <b>1364</b><br />
+[2018.02.18 15:51:42] {"is_solved":false,"errors":["\u0417\u0430\u043f\u0440\u0435\u0449\u0435\u043d\u043d\u043e \u043a \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044e: <b>sqrt<\/b>"],"warnings":["<b>\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438 \u0438\u0437 \u0442\u0435\u043c<\/b>:<br \/>round ()<br \/><b>\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438<\/b>:<br \/>round"]}
+[2018.02.18 15:51:45] init
+[2018.02.18 15:51:45] null
+[2018.02.18 15:51:45] checkAnswer
+[2018.02.18 15:51:45] <br />
+[2018.02.18 15:51:45] <b>Notice</b>:  Use of undefined constant round - assumed 'round' in <b>/var/www/html/revenge/lib/Solver/PHP/PHP.php</b> on line <b>61</b><br />
+[2018.02.18 15:51:45] <br />
+[2018.02.18 15:51:45] <b>Notice</b>:  Use of undefined constant round - assumed 'round' in <b>/var/www/html/revenge/lib/Solver/PHP/PHP.php</b> on line <b>61</b><br />
+[2018.02.18 15:51:45] <br />
+[2018.02.18 15:51:45] <b>Notice</b>:  Undefined index: round in <b>/var/www/html/revenge/lib/PHPReferences.php</b> on line <b>1364</b><br />
+[2018.02.18 15:51:45] {"is_solved":false,"errors":["\u0417\u0430\u043f\u0440\u0435\u0449\u0435\u043d\u043d\u043e \u043a \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044e: <b>sqrt<\/b>"],"warnings":["<b>\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438 \u0438\u0437 \u0442\u0435\u043c<\/b>:<br \/>round ()<br \/><b>\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438<\/b>:<br \/>round"]}
+[2018.02.18 15:53:22] init
+[2018.02.18 15:53:22] null
+[2018.02.18 15:53:22] checkAnswer
+[2018.02.18 15:53:22] <br />
+[2018.02.18 15:53:22] <b>Notice</b>:  Use of undefined constant round - assumed 'round' in <b>/var/www/html/revenge/lib/Solver/PHP/PHP.php</b> on line <b>61</b><br />
+[2018.02.18 15:53:22] <br />
+[2018.02.18 15:53:22] <b>Notice</b>:  Use of undefined constant round - assumed 'round' in <b>/var/www/html/revenge/lib/Solver/PHP/PHP.php</b> on line <b>61</b><br />
+[2018.02.18 15:53:22] <br />
+[2018.02.18 15:53:22] <b>Notice</b>:  Undefined index: round in <b>/var/www/html/revenge/lib/PHPReferences.php</b> on line <b>1364</b><br />
+[2018.02.18 15:53:22] {"is_solved":false,"errors":["\u0417\u0430\u043f\u0440\u0435\u0449\u0435\u043d\u043d\u043e \u043a \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044e: <b>sqrt<\/b>"],"warnings":["<b>\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438 \u0438\u0437 \u0442\u0435\u043c<\/b>:<br \/>round ()<br \/><b>\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438<\/b>:<br \/>round"]}
+[2018.02.18 15:53:28] init
+[2018.02.18 15:53:28] null
+[2018.02.18 15:53:28] checkAnswer
+[2018.02.18 15:53:28] <br />
+[2018.02.18 15:53:28] <b>Notice</b>:  Use of undefined constant round - assumed 'round' in <b>/var/www/html/revenge/lib/Solver/PHP/PHP.php</b> on line <b>61</b><br />
+[2018.02.18 15:53:28] <br />
+[2018.02.18 15:53:28] <b>Notice</b>:  Use of undefined constant round - assumed 'round' in <b>/var/www/html/revenge/lib/Solver/PHP/PHP.php</b> on line <b>61</b><br />
+[2018.02.18 15:53:28] <br />
+[2018.02.18 15:53:28] <b>Notice</b>:  Undefined index: round in <b>/var/www/html/revenge/lib/PHPReferences.php</b> on line <b>1364</b><br />
+[2018.02.18 15:53:28] {"is_solved":false,"errors":["\u0417\u0430\u043f\u0440\u0435\u0449\u0435\u043d\u043d\u043e \u043a \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044e: <b>sqrt<\/b>"],"warnings":["<b>\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438 \u0438\u0437 \u0442\u0435\u043c<\/b>:<br \/>round ()<br \/><b>\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438<\/b>:<br \/>round"]}
+[2018.02.18 15:53:33] init
+[2018.02.18 15:53:33] null
+[2018.02.18 15:53:34] checkAnswer
+[2018.02.18 15:53:34] <br />
+[2018.02.18 15:53:34] <b>Notice</b>:  Use of undefined constant round - assumed 'round' in <b>/var/www/html/revenge/lib/Solver/PHP/PHP.php</b> on line <b>61</b><br />
+[2018.02.18 15:53:34] <br />
+[2018.02.18 15:53:34] <b>Notice</b>:  Use of undefined constant round - assumed 'round' in <b>/var/www/html/revenge/lib/Solver/PHP/PHP.php</b> on line <b>61</b><br />
+[2018.02.18 15:53:34] {"is_solved":false,"fail_compare_table":[{"type":"header","data":["max_prime","\u0412\u0430\u0448\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435","\u042d\u0442\u0430\u043b\u043e\u043d\u043d\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435"]},{"type":"body","data":[["$__arg1","<span style=\"white-space: pre-wrap\">4<\/span>","<span style=\"white-space: pre-wrap\">4<\/span>"]]},{"type":"header","data":["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442"]},{"type":"body","data":[["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442","<span style=\"white-space: pre-wrap\"><span class=\"bg-lightRed\">1<\/span><\/span>","<span style=\"white-space: pre-wrap\">2<\/span>"],["\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f","   0.00004","   0.00101"]],"control_fields":{"\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f":true,"\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442":false}}]}
+[2018.02.18 15:55:18] init
+[2018.02.18 15:55:18] null
+[2018.02.18 15:55:19] checkAnswer
+[2018.02.18 15:55:19] <br />
+[2018.02.18 15:55:19] <b>Notice</b>:  Use of undefined constant round - assumed 'round' in <b>/var/www/html/revenge/lib/Solver/PHP/PHP.php</b> on line <b>61</b><br />
+[2018.02.18 15:55:19] <br />
+[2018.02.18 15:55:19] <b>Notice</b>:  Use of undefined constant round - assumed 'round' in <b>/var/www/html/revenge/lib/Solver/PHP/PHP.php</b> on line <b>61</b><br />
+[2018.02.18 15:55:19] <br />
+[2018.02.18 15:55:19] <b>Warning</b>:  file_get_contents(/tmp/filestmp/result.txt): failed to open stream: No such file or directory in <b>/var/www/html/revenge/lib/Solver/PHP/PHP.php</b> on line <b>101</b><br />
+[2018.02.18 15:55:19] null
+[2018.02.18 15:55:31] init
+[2018.02.18 15:55:31] null
+[2018.02.18 15:55:32] checkAnswer
+[2018.02.18 15:55:32] <br />
+[2018.02.18 15:55:32] <b>Warning</b>:  file_get_contents(/tmp/filestmp/result.txt): failed to open stream: No such file or directory in <b>/var/www/html/revenge/lib/Solver/PHP/PHP.php</b> on line <b>101</b><br />
+[2018.02.18 15:55:32] null
+[2018.02.18 15:56:11] init
+[2018.02.18 15:56:11] null
+[2018.02.18 15:56:12] checkAnswer
+[2018.02.18 15:56:12] <br />
+[2018.02.18 15:56:12] <b>Warning</b>:  file_get_contents(/tmp/filestmp/result.txt): failed to open stream: No such file or directory in <b>/var/www/html/revenge/lib/Solver/PHP/PHP.php</b> on line <b>101</b><br />
+[2018.02.18 15:56:12] null
+[2018.02.18 15:56:23] init
+[2018.02.18 15:56:23] null
+[2018.02.18 15:56:24] checkAnswer
+[2018.02.18 15:56:24] <br />
+[2018.02.18 15:56:24] <b>Warning</b>:  file_get_contents(/tmp/filestmp/result.txt): failed to open stream: No such file or directory in <b>/var/www/html/revenge/lib/Solver/PHP/PHP.php</b> on line <b>101</b><br />
+[2018.02.18 15:56:24] null
+[2018.02.18 15:56:35] init
+[2018.02.18 15:56:35] null
+[2018.02.18 15:56:36] checkAnswer
+[2018.02.18 15:56:36] {"is_solved":false,"fail_compare_table":[{"type":"header","data":["max_prime","\u0412\u0430\u0448\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435","\u042d\u0442\u0430\u043b\u043e\u043d\u043d\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435"]},{"type":"body","data":[["$__arg1","<span style=\"white-space: pre-wrap\">4<\/span>","<span style=\"white-space: pre-wrap\">4<\/span>"]]},{"type":"header","data":["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442"]},{"type":"body","data":[["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442","<span style=\"white-space: pre-wrap\"><span class=\"bg-lightRed\">1<\/span><\/span>","<span style=\"white-space: pre-wrap\">2<\/span>"],["\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f","   0.00003","   0.00001"]],"control_fields":{"\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f":false,"\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442":false}}]}
+[2018.02.18 16:02:04] init
+[2018.02.18 16:02:04] null
+[2018.02.18 16:02:04] checkAnswer
+[2018.02.18 16:02:04] {"is_solved":false,"fail_compare_table":[{"type":"header","data":["max_prime","\u0412\u0430\u0448\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435","\u042d\u0442\u0430\u043b\u043e\u043d\u043d\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435"]},{"type":"body","data":[["$__arg1","<span style=\"white-space: pre-wrap\">4<\/span>","<span style=\"white-space: pre-wrap\">4<\/span>"]]},{"type":"header","data":["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442"]},{"type":"body","data":[["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442","<span style=\"white-space: pre-wrap\"><span class=\"bg-lightRed\">1<\/span><\/span>","<span style=\"white-space: pre-wrap\">2<\/span>"],["\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f","   0.00003","   0.00004"]],"control_fields":{"\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f":true,"\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442":false}}]}
+[2018.02.18 16:02:36] init
+[2018.02.18 16:02:36] null
+[2018.02.18 16:02:37] checkAnswer
+[2018.02.18 16:02:37] {"is_solved":false,"fail_compare_table":[{"type":"header","data":["max_prime","\u0412\u0430\u0448\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435","\u042d\u0442\u0430\u043b\u043e\u043d\u043d\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435"]},{"type":"body","data":[["$__arg1","<span style=\"white-space: pre-wrap\">4<\/span>","<span style=\"white-space: pre-wrap\">4<\/span>"]]},{"type":"header","data":["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442"]},{"type":"body","data":[["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442","<span style=\"white-space: pre-wrap\"><span class=\"bg-lightRed\">1<\/span><\/span>","<span style=\"white-space: pre-wrap\">2<\/span>"],["\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f","   0.00003","   0.00004"]],"control_fields":{"\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f":true,"\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442":false}}]}
+[2018.02.18 16:02:51] init
+[2018.02.18 16:02:51] null
+[2018.02.18 16:02:52] checkAnswer
+[2018.02.18 16:02:52] {"is_solved":false,"fail_compare_table":[{"type":"header","data":["max_prime","\u0412\u0430\u0448\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435","\u042d\u0442\u0430\u043b\u043e\u043d\u043d\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435"]},{"type":"body","data":[["$__arg1","<span style=\"white-space: pre-wrap\">4<\/span>","<span style=\"white-space: pre-wrap\">4<\/span>"]]},{"type":"header","data":["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442"]},{"type":"body","data":[["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442","<span style=\"white-space: pre-wrap\"><span class=\"bg-lightRed\">1<\/span><\/span>","<span style=\"white-space: pre-wrap\">2<\/span>"],["\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f","   0.00003","   0.00004"]],"control_fields":{"\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f":true,"\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442":false}}]}
+[2018.02.18 16:03:25] init
+[2018.02.18 16:03:25] null
+[2018.02.18 16:03:26] checkAnswer
+[2018.02.18 16:03:26] {"is_solved":false,"fail_compare_table":[{"type":"header","data":["max_prime","\u0412\u0430\u0448\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435","\u042d\u0442\u0430\u043b\u043e\u043d\u043d\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435"]},{"type":"body","data":[["$__arg1","<span style=\"white-space: pre-wrap\">4<\/span>","<span style=\"white-space: pre-wrap\">4<\/span>"]]},{"type":"header","data":["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442"]},{"type":"body","data":[["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442","<span style=\"white-space: pre-wrap\"><span class=\"bg-lightRed\">1<\/span><\/span>","<span style=\"white-space: pre-wrap\">2<\/span>"],["\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f","   0.00003","   0.00003"]],"control_fields":{"\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f":true,"\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442":false}}]}
+[2018.02.18 16:03:34] init
+[2018.02.18 16:03:34] null
+[2018.02.18 16:03:35] checkAnswer
+[2018.02.18 16:03:35] {"is_solved":false,"fail_compare_table":[{"type":"header","data":["max_prime","\u0412\u0430\u0448\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435","\u042d\u0442\u0430\u043b\u043e\u043d\u043d\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435"]},{"type":"body","data":[["$__arg1","<span style=\"white-space: pre-wrap\">4<\/span>","<span style=\"white-space: pre-wrap\">4<\/span>"]]},{"type":"header","data":["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442"]},{"type":"body","data":[["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442","<span style=\"white-space: pre-wrap\"><span class=\"bg-lightRed\">3<\/span><\/span>","<span style=\"white-space: pre-wrap\">2<\/span>"],["\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f","   0.00006","   0.00006"]],"control_fields":{"\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f":true,"\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442":false}}]}
+[2018.02.18 16:04:00] init
+[2018.02.18 16:04:00] null
+[2018.02.18 16:04:01] checkAnswer
+[2018.02.18 16:04:01] <br />
+[2018.02.18 16:04:01] <b>Notice</b>:  Undefined index: round in <b>/var/www/html/revenge/lib/PHPReferences.php</b> on line <b>1364</b><br />
+[2018.02.18 16:04:01] {"is_solved":false,"errors":["\u0417\u0430\u043f\u0440\u0435\u0449\u0435\u043d\u043d\u043e \u043a \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044e: <b>round<\/b>"],"warnings":["<b>\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438 \u0438\u0437 \u0442\u0435\u043c<\/b>:<br \/>round ()<br \/><b>\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438<\/b>:<br \/>round<br \/><b>\u0417\u0430\u043f\u0440\u0435\u0449\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438<\/b>:<br \/>round"]}
+[2018.02.18 16:04:26] init
+[2018.02.18 16:04:26] null
+[2018.02.18 16:04:26] checkAnswer
+[2018.02.18 16:04:26] <br />
+[2018.02.18 16:04:26] <b>Notice</b>:  Undefined index: round in <b>/var/www/html/revenge/lib/PHPReferences.php</b> on line <b>1364</b><br />
+[2018.02.18 16:04:26] {"is_solved":false,"errors":["\u0417\u0430\u043f\u0440\u0435\u0449\u0435\u043d\u043d\u043e \u043a \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044e: <b>sqrt<\/b>"],"warnings":["<b>\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438 \u0438\u0437 \u0442\u0435\u043c<\/b>:<br \/>round ()<br \/><b>\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438<\/b>:<br \/>round<br \/><b>\u0417\u0430\u043f\u0440\u0435\u0449\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438<\/b>:<br \/>round"]}
+[2018.02.18 16:04:48] init
+[2018.02.18 16:04:48] null
+[2018.02.18 16:04:48] checkAnswer
+[2018.02.18 16:04:48] <br />
+[2018.02.18 16:04:48] <b>Notice</b>:  Undefined index: round in <b>/var/www/html/revenge/lib/PHPReferences.php</b> on line <b>1364</b><br />
+[2018.02.18 16:04:48] {"is_solved":false,"errors":["\u0417\u0430\u043f\u0440\u0435\u0449\u0435\u043d\u043d\u043e \u043a \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044e: <b>sqrt<\/b>"],"warnings":["<b>\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438 \u0438\u0437 \u0442\u0435\u043c<\/b>:<br \/>round ()<br \/><b>\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438<\/b>:<br \/>round<br \/><b>\u0417\u0430\u043f\u0440\u0435\u0449\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438<\/b>:<br \/>round"]}
+[2018.02.18 16:05:03] init
+[2018.02.18 16:05:03] null
+[2018.02.18 16:05:04] checkAnswer
+[2018.02.18 16:05:04] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2018.02.18 16:05:12] init
+[2018.02.18 16:05:12] null
+[2018.02.18 16:05:13] checkAnswer
+[2018.02.18 16:05:13] {"is_solved":false,"fail_compare_table":[{"type":"header","data":["max_prime","\u0412\u0430\u0448\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435","\u042d\u0442\u0430\u043b\u043e\u043d\u043d\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435"]},{"type":"body","data":[["$__arg1","<span style=\"white-space: pre-wrap\">4<\/span>","<span style=\"white-space: pre-wrap\">4<\/span>"]]},{"type":"header","data":["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442"]},{"type":"body","data":[["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442","<span style=\"white-space: pre-wrap\">2<\/span><span class=\"bg-lightRed\"><\/span>","<span style=\"white-space: pre-wrap\">2<\/span>"],["\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f","   0.00004","   0.00004"]],"control_fields":{"\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f":true,"\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442":false}}]}
+[2018.02.18 16:05:59] init
+[2018.02.18 16:05:59] null
+[2018.02.18 16:06:00] checkAnswer
+[2018.02.18 16:06:00] {"is_solved":false,"fail_compare_table":[{"type":"header","data":["max_prime","\u0412\u0430\u0448\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435","\u042d\u0442\u0430\u043b\u043e\u043d\u043d\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435"]},{"type":"body","data":[["$__arg1","<span style=\"white-space: pre-wrap\">4<\/span>","<span style=\"white-space: pre-wrap\">4<\/span>"]]},{"type":"header","data":["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442"]},{"type":"body","data":[["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442","<span style=\"white-space: pre-wrap\"><span class=\"bg-lightRed\">4<\/span><\/span>","<span style=\"white-space: pre-wrap\">2<\/span>"],["\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f","   0.00004","   0.00007"]],"control_fields":{"\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f":true,"\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442":false}}]}
+[2018.02.18 16:06:36] init
+[2018.02.18 16:06:36] null
+[2018.02.18 16:06:37] checkAnswer
+[2018.02.18 16:06:37] {"is_solved":false,"fail_compare_table":[{"type":"header","data":["max_prime","\u0412\u0430\u0448\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435","\u042d\u0442\u0430\u043b\u043e\u043d\u043d\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435"]},{"type":"body","data":[["$__arg1","<span style=\"white-space: pre-wrap\">4<\/span>","<span style=\"white-space: pre-wrap\">4<\/span>"]]},{"type":"header","data":["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442"]},{"type":"body","data":[["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442","<span style=\"white-space: pre-wrap\"><span class=\"bg-lightRed\">4<\/span><\/span>","<span style=\"white-space: pre-wrap\">2<\/span>"],["\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f","   0.00004","   0.00004"]],"control_fields":{"\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f":true,"\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442":false}}]}
+[2018.02.18 16:30:02] init
+[2018.02.18 16:30:02] null
+[2018.02.18 16:30:02] checkAnswer
+[2018.02.18 16:30:02] <br />
+[2018.02.18 16:30:02] <b>Notice</b>:  Undefined index: round in <b>/var/www/html/revenge/lib/PHPReferences.php</b> on line <b>1364</b><br />
+[2018.02.18 16:30:02] {"is_solved":false,"errors":["\u0417\u0430\u043f\u0440\u0435\u0449\u0435\u043d\u043d\u043e \u043a \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044e: <b>sqrt<\/b>"],"warnings":["<b>\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438 \u0438\u0437 \u0442\u0435\u043c<\/b>:<br \/>round ()<br \/><b>\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438<\/b>:<br \/>round<br \/><b>\u0417\u0430\u043f\u0440\u0435\u0449\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438<\/b>:<br \/>round"]}
+[2018.02.18 16:30:11] init
+[2018.02.18 16:30:11] null
+[2018.02.18 16:30:12] checkAnswer
+[2018.02.18 16:30:12] {"is_solved":false,"fail_compare_table":[{"type":"header","data":["max_prime","\u0412\u0430\u0448\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435","\u042d\u0442\u0430\u043b\u043e\u043d\u043d\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435"]},{"type":"body","data":[["$__arg1","<span style=\"white-space: pre-wrap\">4<\/span>","<span style=\"white-space: pre-wrap\">4<\/span>"]]},{"type":"header","data":["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442"]},{"type":"body","data":[["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442","<span style=\"white-space: pre-wrap\"><span class=\"bg-lightRed\">4<\/span><\/span>","<span style=\"white-space: pre-wrap\">2<\/span>"],["\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f","   0.00006","   0.00004"]],"control_fields":{"\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f":true,"\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442":false}}]}
+[2018.02.18 16:30:24] init
+[2018.02.18 16:30:24] null
+[2018.02.18 16:30:25] checkAnswer
+[2018.02.18 16:30:25] {"is_solved":false,"fail_compare_table":[{"type":"header","data":["max_prime","\u0412\u0430\u0448\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435","\u042d\u0442\u0430\u043b\u043e\u043d\u043d\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435"]},{"type":"body","data":[["$__arg1","<span style=\"white-space: pre-wrap\">4<\/span>","<span style=\"white-space: pre-wrap\">4<\/span>"]]},{"type":"header","data":["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442"]},{"type":"body","data":[["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442","<span style=\"white-space: pre-wrap\"><span class=\"bg-lightRed\">4<\/span><\/span>","<span style=\"white-space: pre-wrap\">2<\/span>"],["\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f","   0.00003","   0.00003"]],"control_fields":{"\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f":true,"\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442":false}}]}
+[2018.02.18 16:31:50] init
+[2018.02.18 16:31:50] null
+[2018.02.18 16:31:51] checkAnswer
+[2018.02.18 16:31:51] {"is_solved":true}
+[2018.02.18 16:31:55] init
+[2018.02.18 16:31:55] null
+[2018.02.18 16:31:56] checkAnswer
+[2018.02.18 16:31:56] {"is_solved":true}
+[2018.02.18 16:32:07] init
+[2018.02.18 16:32:07] null
+[2018.02.18 16:32:08] checkAnswer
+[2018.02.18 16:32:08] {"is_solved":false,"fail_compare_table":[{"type":"header","data":["max_prime","\u0412\u0430\u0448\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435","\u042d\u0442\u0430\u043b\u043e\u043d\u043d\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435"]},{"type":"body","data":[["$__arg1","<span style=\"white-space: pre-wrap\">4<\/span>","<span style=\"white-space: pre-wrap\">4<\/span>"]]},{"type":"header","data":["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442"]},{"type":"body","data":[["\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442","<span style=\"white-space: pre-wrap\"><span class=\"bg-lightRed\">3<\/span><\/span>","<span style=\"white-space: pre-wrap\">2<\/span>"],["\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f","   0.00005","   0.00002"]],"control_fields":{"\u0412\u0440\u0435\u043c\u044f \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f":false,"\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442":false}}]}

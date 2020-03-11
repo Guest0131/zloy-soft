@@ -1,0 +1,176 @@
+[2018.02.26 00:23:52] init
+[2018.02.26 00:23:52] null
+[2018.02.26 00:23:52] checkAnswer
+[2018.02.26 00:23:52] {"is_solved":false,"errors":["\u0417\u0430\u043f\u0440\u0435\u0449\u0435\u043d\u043d\u043e \u043a \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044e: <b>hash<\/b>"],"warnings":["<b>\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438 \u0438\u0437 \u0442\u0435\u043c<\/b>:<br \/>\u0420\u0430\u0431\u043e\u0442\u0430 \u0441 \u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u043c\u0438 (http:\/\/php.net\/manual\/en\/ref.var.php)<br \/>\u0421\u0442\u0440\u043e\u043a\u043e\u0432\u044b\u0435 \u0444\u0443\u043d\u043a\u0446\u0438\u0438 (http:\/\/php.net\/manual\/en\/ref.strings.php)<br \/>\u041c\u043d\u043e\u0433\u043e\u0431\u0430\u0439\u0442\u043e\u0432\u044b\u0435 \u0441\u0442\u0440\u043e\u043a\u0438 (http:\/\/php.net\/manual\/en\/ref.mbstring.php)<br \/>\u041c\u0430\u0441\u0441\u0438\u0432\u044b (http:\/\/php.net\/manual\/en\/ref.array.php)<br \/>\u0414\u0430\u0442\u0430 \u0438 \u0432\u0440\u0435\u043c\u044f (http:\/\/php.net\/manual\/ru\/ref.datetime.php)<br \/>\u0421\u0435\u0441\u0441\u0438\u0438 (http:\/\/php.net\/manual\/ru\/ref.session.php)<br \/>PCRE (http:\/\/php.net\/manual\/en\/ref.pcre.php)<br \/><b>\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438<\/b>:<br \/>touch<br \/>file_get_contents<br \/>file_put_contents<br \/>sleep<br \/>usleep"]}
+[2018.02.26 00:24:30] init
+[2018.02.26 00:24:30] null
+[2018.02.26 00:24:30] checkAnswer
+[2018.02.26 00:24:30] {"is_solved":false,"errors":["\u0417\u0430\u043f\u0440\u0435\u0449\u0435\u043d\u043d\u043e \u043a \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044e: <b>hash<\/b>"],"warnings":["<b>\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438 \u0438\u0437 \u0442\u0435\u043c<\/b>:<br \/>\u0420\u0430\u0431\u043e\u0442\u0430 \u0441 \u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u043c\u0438 (http:\/\/php.net\/manual\/en\/ref.var.php)<br \/>\u0421\u0442\u0440\u043e\u043a\u043e\u0432\u044b\u0435 \u0444\u0443\u043d\u043a\u0446\u0438\u0438 (http:\/\/php.net\/manual\/en\/ref.strings.php)<br \/>\u041c\u043d\u043e\u0433\u043e\u0431\u0430\u0439\u0442\u043e\u0432\u044b\u0435 \u0441\u0442\u0440\u043e\u043a\u0438 (http:\/\/php.net\/manual\/en\/ref.mbstring.php)<br \/>\u041c\u0430\u0441\u0441\u0438\u0432\u044b (http:\/\/php.net\/manual\/en\/ref.array.php)<br \/>\u0414\u0430\u0442\u0430 \u0438 \u0432\u0440\u0435\u043c\u044f (http:\/\/php.net\/manual\/ru\/ref.datetime.php)<br \/>\u0421\u0435\u0441\u0441\u0438\u0438 (http:\/\/php.net\/manual\/ru\/ref.session.php)<br \/>PCRE (http:\/\/php.net\/manual\/en\/ref.pcre.php)<br \/><b>\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438<\/b>:<br \/>touch<br \/>file_get_contents<br \/>file_put_contents<br \/>sleep<br \/>usleep<br \/>md5"]}
+[2018.02.26 00:26:10] init
+[2018.02.26 00:26:10] null
+[2018.02.26 00:26:11] checkAnswer
+[2018.02.26 00:26:11] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2018.02.26 00:26:57] init
+[2018.02.26 00:26:57] null
+[2018.02.26 00:26:58] checkAnswer
+[2018.02.26 00:26:58] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2018.02.26 00:28:14] init
+[2018.02.26 00:28:14] null
+[2018.02.26 00:28:16] checkAnswer
+[2018.02.26 00:28:16] {"is_solved":true}
+[2018.02.26 00:28:23] init
+[2018.02.26 00:28:23] null
+[2018.02.26 00:28:24] checkAnswer
+[2018.02.26 00:28:24] {"is_solved":true}
+[2018.02.26 00:28:50] init
+[2018.02.26 00:28:50] null
+[2018.02.26 00:28:51] checkAnswer
+[2018.02.26 00:28:51] {"is_solved":true}
+[2018.02.26 00:32:07] init
+[2018.02.26 00:32:07] null
+[2018.02.26 00:32:09] checkAnswer
+[2018.02.26 00:32:09] {"is_solved":true}
+[2018.02.26 00:32:26] init
+[2018.02.26 00:32:26] null
+[2018.02.26 00:32:28] checkAnswer
+[2018.02.26 00:32:28] {"is_solved":true}
+[2018.02.26 00:32:56] init
+[2018.02.26 00:32:56] null
+[2018.02.26 00:32:57] checkAnswer
+[2018.02.26 00:32:57] {"is_solved":false,"fail_text":"\u0417\u0430\u0434\u0430\u0447\u0430 \u0440\u0435\u0448\u0435\u043d\u0430 \u043d\u0435\u0432\u0435\u0440\u043d\u043e"}
+[2018.02.26 00:33:05] init
+[2018.02.26 00:33:05] null
+[2018.02.26 00:33:06] checkAnswer
+[2018.02.26 00:33:06] {"is_solved":false,"fail_text":"\u0417\u0430\u0434\u0430\u0447\u0430 \u0440\u0435\u0448\u0435\u043d\u0430 \u043d\u0435\u0432\u0435\u0440\u043d\u043e"}
+[2018.02.26 00:33:19] init
+[2018.02.26 00:33:19] null
+[2018.02.26 00:33:20] checkAnswer
+[2018.02.26 00:33:20] {"is_solved":false,"fail_text":"\u0417\u0430\u0434\u0430\u0447\u0430 \u0440\u0435\u0448\u0435\u043d\u0430 \u043d\u0435\u0432\u0435\u0440\u043d\u043e"}
+[2018.02.26 00:33:23] init
+[2018.02.26 00:33:23] null
+[2018.02.26 00:33:24] checkAnswer
+[2018.02.26 00:33:24] {"is_solved":true}
+[2018.02.26 00:33:29] init
+[2018.02.26 00:33:29] null
+[2018.02.26 00:33:30] checkAnswer
+[2018.02.26 00:33:30] {"is_solved":false,"fail_text":"\u0417\u0430\u0434\u0430\u0447\u0430 \u0440\u0435\u0448\u0435\u043d\u0430 \u043d\u0435\u0432\u0435\u0440\u043d\u043e"}
+[2018.02.26 00:34:16] init
+[2018.02.26 00:34:16] null
+[2018.02.26 00:34:16] checkAnswer
+[2018.02.26 00:34:16] {"is_solved":false,"errors":["\u0417\u0430\u043f\u0440\u0435\u0449\u0435\u043d\u043d\u043e \u043a \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044e: <b>max<\/b>"],"warnings":["<b>\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438 \u0438\u0437 \u0442\u0435\u043c<\/b>:<br \/>\u0420\u0430\u0431\u043e\u0442\u0430 \u0441 \u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u043c\u0438 (http:\/\/php.net\/manual\/en\/ref.var.php)<br \/>\u0421\u0442\u0440\u043e\u043a\u043e\u0432\u044b\u0435 \u0444\u0443\u043d\u043a\u0446\u0438\u0438 (http:\/\/php.net\/manual\/en\/ref.strings.php)<br \/>\u041c\u043d\u043e\u0433\u043e\u0431\u0430\u0439\u0442\u043e\u0432\u044b\u0435 \u0441\u0442\u0440\u043e\u043a\u0438 (http:\/\/php.net\/manual\/en\/ref.mbstring.php)<br \/>\u041c\u0430\u0441\u0441\u0438\u0432\u044b (http:\/\/php.net\/manual\/en\/ref.array.php)<br \/>\u0414\u0430\u0442\u0430 \u0438 \u0432\u0440\u0435\u043c\u044f (http:\/\/php.net\/manual\/ru\/ref.datetime.php)<br \/>\u0421\u0435\u0441\u0441\u0438\u0438 (http:\/\/php.net\/manual\/ru\/ref.session.php)<br \/><b>\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438<\/b>:<br \/>touch<br \/>file_get_contents<br \/>file_put_contents<br \/>sleep<br \/>usleep"]}
+[2018.02.26 00:34:36] init
+[2018.02.26 00:34:36] null
+[2018.02.26 00:34:37] checkAnswer
+[2018.02.26 00:34:37] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre> Undefined index: kvstuh7b4f8cp73f0b7rgkc4l1 <br \/> Undefined index: oblvjhvm751hd0velrosi6cpm2 <br \/> Undefined index: 2e01gtck0i6s1d539jcdeptik7 <\/pre>"}
+[2018.02.26 00:36:13] init
+[2018.02.26 00:36:13] null
+[2018.02.26 00:36:15] checkAnswer
+[2018.02.26 00:36:15] {"is_solved":false,"fail_text":"\u0417\u0430\u0434\u0430\u0447\u0430 \u0440\u0435\u0448\u0435\u043d\u0430 \u043d\u0435\u0432\u0435\u0440\u043d\u043e"}
+[2018.02.26 00:36:37] init
+[2018.02.26 00:36:37] null
+[2018.02.26 00:36:38] checkAnswer
+[2018.02.26 00:36:38] {"is_solved":true}
+[2018.02.26 00:36:40] init
+[2018.02.26 00:36:40] null
+[2018.02.26 00:36:41] checkAnswer
+[2018.02.26 00:36:41] {"is_solved":true}
+[2018.02.26 00:36:42] init
+[2018.02.26 00:36:42] null
+[2018.02.26 00:36:43] checkAnswer
+[2018.02.26 00:36:43] {"is_solved":true}
+[2018.02.26 00:37:08] init
+[2018.02.26 00:37:08] null
+[2018.02.26 00:37:10] checkAnswer
+[2018.02.26 00:37:10] {"is_solved":false,"fail_text":"\u0417\u0430\u0434\u0430\u0447\u0430 \u0440\u0435\u0448\u0435\u043d\u0430 \u043d\u0435\u0432\u0435\u0440\u043d\u043e"}
+[2018.02.26 09:47:52] init
+[2018.02.26 09:47:52] null
+[2018.02.26 09:47:53] checkAnswer
+[2018.02.26 09:47:53] {"is_solved":true}
+[2018.02.26 09:47:57] init
+[2018.02.26 09:47:57] null
+[2018.02.26 09:47:58] checkAnswer
+[2018.02.26 09:47:58] {"is_solved":false,"fail_text":"\u0417\u0430\u0434\u0430\u0447\u0430 \u0440\u0435\u0448\u0435\u043d\u0430 \u043d\u0435\u0432\u0435\u0440\u043d\u043e"}
+[2018.02.26 09:48:02] init
+[2018.02.26 09:48:02] null
+[2018.02.26 09:48:03] checkAnswer
+[2018.02.26 09:48:03] {"is_solved":false,"fail_text":"\u0417\u0430\u0434\u0430\u0447\u0430 \u0440\u0435\u0448\u0435\u043d\u0430 \u043d\u0435\u0432\u0435\u0440\u043d\u043e"}
+[2018.02.26 09:48:37] init
+[2018.02.26 09:48:37] null
+[2018.02.26 09:48:38] checkAnswer
+[2018.02.26 09:48:38] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre> Undefined index: Opera <br \/> array_sum() expects parameter 1 to be array, null given <br \/> Undefined index: Opera <br \/> array_sum() expects parameter 1 to be array, null given <br \/> Undefined index: Opera <br \/> array_sum() expects parameter 1 to be array, null given <br \/> Undefined index: Opera <br \/> array_sum() expects parameter 1 to be array, null given <br \/> Undefined index: 8g3nrpl9sgrvgho6l1e8hbntb1 <\/pre>"}
+[2018.02.26 09:49:38] init
+[2018.02.26 09:49:38] null
+[2018.02.26 09:49:39] checkAnswer
+[2018.02.26 09:49:39] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre> Undefined index: vqr8ns2s4fvhfdr5bj4jf15qu2 <br \/> Undefined index: o2l34u1hjb1jq2dif7is13i6a3 <\/pre>"}
+[2018.02.26 09:50:08] init
+[2018.02.26 09:50:08] null
+[2018.02.26 09:50:09] checkAnswer
+[2018.02.26 09:50:09] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre> Undefined index: 586de2m1iav2d4ggdupv8dece5 <br \/> Undefined index: j4aq9ahsts5dmn47paajeiugq0 <br \/> Undefined index: mvj53snob5hqghoi9dqr1ol9j7 <\/pre>"}
+[2018.02.26 09:50:28] init
+[2018.02.26 09:50:28] null
+[2018.02.26 09:50:29] checkAnswer
+[2018.02.26 09:50:29] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre> Undefined index: q3q9vavbcjsopme8ac1ppsnqt4 <br \/> Undefined index: dqvl5170imjpqup8vb8vc4tsn4 <br \/> Undefined index: 6stlful164aqmvneelpdsq3523 <\/pre>"}
+[2018.02.26 09:51:55] init
+[2018.02.26 09:51:55] null
+[2018.02.26 09:51:57] checkAnswer
+[2018.02.26 09:51:57] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre> Undefined index: Opera <br \/> array_sum() expects parameter 1 to be array, null given <br \/> Undefined index: Opera <br \/> array_sum() expects parameter 1 to be array, null given <br \/> Undefined index: Opera <br \/> array_sum() expects parameter 1 to be array, null given <br \/> Undefined index: Opera <br \/> array_sum() expects parameter 1 to be array, null given <br \/> Undefined index: m9cdnhvgj76h4pe8l746fejnf6 <\/pre>"}
+[2018.02.26 09:53:23] init
+[2018.02.26 09:53:23] null
+[2018.02.26 09:53:24] checkAnswer
+[2018.02.26 09:53:24] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre> Undefined index: Opera <br \/> array_sum() expects parameter 1 to be array, null given <br \/> Undefined index: Opera <br \/> array_sum() expects parameter 1 to be array, null given <br \/> Undefined index: Opera <br \/> array_sum() expects parameter 1 to be array, null given <br \/> Undefined index: Opera <br \/> array_sum() expects parameter 1 to be array, null given <br \/> Undefined index: 6ojo91dvm0ioti3i08jnfqodp3 <\/pre>"}
+[2018.02.26 09:53:41] init
+[2018.02.26 09:53:41] null
+[2018.02.26 09:53:42] checkAnswer
+[2018.02.26 09:53:42] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre> Undefined index: Opera <br \/> array_sum() expects parameter 1 to be array, null given <br \/> Undefined index: Opera <br \/> array_sum() expects parameter 1 to be array, null given <br \/> Undefined index: Opera <br \/> array_sum() expects parameter 1 to be array, null given <br \/> Undefined index: Opera <br \/> array_sum() expects parameter 1 to be array, null given <br \/> Undefined index: vgen6o0gduspmkslufh63cv9n1 <\/pre>"}
+[2018.02.26 09:54:03] init
+[2018.02.26 09:54:03] null
+[2018.02.26 09:54:04] checkAnswer
+[2018.02.26 09:54:04] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre> Undefined index: Opera <br \/> array_sum() expects parameter 1 to be array, null given <br \/> Undefined index: Opera <br \/> array_sum() expects parameter 1 to be array, null given <br \/> Undefined index: Opera <br \/> array_sum() expects parameter 1 to be array, null given <br \/> Undefined index: Opera <br \/> array_sum() expects parameter 1 to be array, null given <br \/> Undefined index: eg5bphgu34nujepc0mntb1v821 <\/pre>"}
+[2018.02.26 09:54:17] init
+[2018.02.26 09:54:17] null
+[2018.02.26 09:54:19] checkAnswer
+[2018.02.26 09:54:19] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre> array_sum() expects parameter 1 to be array, null given <br \/> Undefined index: OPR <br \/> array_sum() expects parameter 1 to be array, null given <\/pre>"}
+[2018.02.26 09:54:44] init
+[2018.02.26 09:54:44] null
+[2018.02.26 09:54:45] checkAnswer
+[2018.02.26 09:54:45] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre> Undefined index: Opera <br \/> array_sum() expects parameter 1 to be array, null given <br \/> Undefined index: Opera <br \/> array_sum() expects parameter 1 to be array, null given <br \/> Undefined index: Opera <br \/> array_sum() expects parameter 1 to be array, null given <br \/> Undefined index: Opera <br \/> array_sum() expects parameter 1 to be array, null given <br \/> Undefined index: p7u6oi80125ntj1d691de0uck4 <\/pre>"}
+[2018.02.26 09:55:09] init
+[2018.02.26 09:55:09] null
+[2018.02.26 09:55:10] checkAnswer
+[2018.02.26 09:55:10] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre> Undefined index: Opera <br \/> array_sum() expects parameter 1 to be array, null given <br \/> Undefined index: Opera <br \/> array_sum() expects parameter 1 to be array, null given <br \/> Undefined index: Opera <br \/> array_sum() expects parameter 1 to be array, null given <br \/> Undefined index: Opera <br \/> array_sum() expects parameter 1 to be array, null given <\/pre>"}
+[2018.02.26 09:57:01] init
+[2018.02.26 09:57:01] null
+[2018.02.26 09:57:02] checkAnswer
+[2018.02.26 09:57:02] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre> Undefined index: Opera <br \/> array_sum() expects parameter 1 to be array, null given <br \/> Undefined index: Opera <br \/> array_sum() expects parameter 1 to be array, null given <br \/> Undefined index: Opera <br \/> array_sum() expects parameter 1 to be array, null given <br \/> Undefined index: Opera <br \/> array_sum() expects parameter 1 to be array, null given <\/pre>"}
+[2018.02.26 09:58:40] init
+[2018.02.26 09:58:40] null
+[2018.02.26 09:58:41] checkAnswer
+[2018.02.26 09:58:41] {"is_solved":false,"fail_text":"\u0417\u0430\u0434\u0430\u0447\u0430 \u0440\u0435\u0448\u0435\u043d\u0430 \u043d\u0435\u0432\u0435\u0440\u043d\u043e"}
+[2018.02.26 09:58:58] init
+[2018.02.26 09:58:58] null
+[2018.02.26 09:58:59] checkAnswer
+[2018.02.26 09:58:59] {"is_solved":false,"fail_text":"\u0417\u0430\u0434\u0430\u0447\u0430 \u0440\u0435\u0448\u0435\u043d\u0430 \u043d\u0435\u0432\u0435\u0440\u043d\u043e"}
+[2018.02.26 09:59:30] init
+[2018.02.26 09:59:30] null
+[2018.02.26 09:59:32] checkAnswer
+[2018.02.26 09:59:32] {"is_solved":true}
+[2018.02.26 20:21:16] init
+[2018.02.26 20:21:16] null
+[2018.02.26 20:21:17] checkAnswer
+[2018.02.26 20:21:17] {"is_solved":true}
+[2018.02.26 20:21:27] init
+[2018.02.26 20:21:27] null
+[2018.02.26 20:21:28] checkAnswer
+[2018.02.26 20:21:28] {"is_solved":true}
+[2018.02.26 20:21:43] init
+[2018.02.26 20:21:43] null
+[2018.02.26 20:21:44] checkAnswer
+[2018.02.26 20:21:44] {"is_solved":true}
+[2018.02.26 20:38:27] init
+[2018.02.26 20:38:27] null
+[2018.02.26 20:38:48] checkAnswer
+[2018.02.26 20:38:48] {"is_solved":true}
+[2018.02.26 20:38:54] init
+[2018.02.26 20:38:54] null
+[2018.02.26 20:39:15] checkAnswer
+[2018.02.26 20:39:15] {"is_solved":true}

@@ -1,0 +1,404 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title>Каталог книг в интернет-магазине Book24.ru: заказать книги почтой через интернет</title>
+<style>
+* {margin:0px; padding:0px; border: 0px;
+	border-collapse: collapse;}
+	
+	/*для табличной верстки*/
+	table {width: 100%;}
+	
+	/*покрасить в светлый цвет строчку*/
+	.colorString {	background-color: #fff8e1}
+	
+	/*шрифт дефолтногй фразы*/
+	.fontDefault { font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";}
+	
+	/*размер дефолтной фразы*/
+	.sizeDefault {font-size: 13px;}
+	
+	/*размер входа и регистрации*/
+	.sizeAndFontLoginRegistered 
+	{
+		font-size: 16px; 
+		font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	}
+	
+	.colorBlack {color: black;}
+	
+	.colorGray {color: gray;}
+	
+	/*орагнизуем отступы в первой ячейке таблички первой и второй строки*/
+	.indentFirstSecond {padding: 10px 0px 10px 91px;}
+	
+	/*отступы в 3 строке*/
+	.indentThird { padding: 45px 0px 45px 91px;}
+	
+	.textAndLinkOnTheSky
+	{
+		text-decoration: none;
+		color: gray;
+		font-size: 13px;
+		font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	}
+	
+	/*при наведении на ссылки изменяем анимацию*/
+	a.textAndLinkOnTheSky:hover
+	{
+		text-decoration: none;
+		border-bottom: none;
+		color: black;
+	}
+	
+	/*подчеркиваем жирностью 2px пунктирной линией*/
+	.punctualUnderline { border-bottom: 1px dashed;}
+	
+	/*подчеркиваем жирностью 2px непрерывной линией*/
+	.continuousUnderline { border-bottom: 1px solid;}
+	
+	#catalog
+	{
+		text-decoration: none;
+		font: 15px Tahoma;
+		color: #686565;
+		border: solid 2px;
+		border-radius: 5px;
+		padding: 12px 30px;
+	}
+	
+	a.catalog:hover
+	{
+		text-decoration: none;
+		color: red;
+	}
+	
+	/*форма поиска по сайту*/
+	input.form
+	{
+		padding: 12px 435px 12px 23px;
+		color: #9C9595;
+		font: 15px Tahoma;
+		border-radius: 5px;
+		border: solid 2px;
+
+	}
+	
+	/*при нажатии синий борлюр*/
+	input.form:focus { border-color: #2842A4;}
+
+	.monolit { padding-left:55px;}
+
+	/*кнопка "Найти"*/
+	input.submit
+	{
+ 
+		padding: 15px;
+		color: white;
+		font: 15px Tahoma;
+		border: solid 0px;
+		border-radius: 5px;
+		background-color: lightgreen;
+		font-weight: 700;
+		cursor:pointer;
+	}
+	
+	/*почти везде использующие промежутки между словами*/
+	.spacing {padding-left: 20px;}
+	
+	.shiftBetweenLink {padding-left: 5px;}
+	
+	/*чтобы город был справа*/
+	.shiftCityOfResidence{padding-left:180px;}
+	
+	#widthFirstCellSecondTable {width: 393px;}
+	
+	/*книпка фильтра "По популярности"*/
+	.buttonByPopularity 
+	{	
+		padding: 3px;
+		border: solid 1px;
+		background-color: #fff8e1;
+		border-radius: 5px;
+		cursor: pointer;
+	}
+	
+	/*ссылка голубого цвета*/
+	a.blueLink
+	{
+		text-decoration: none;
+		color: #1E5480;
+		font: 13px Tahoma;
+	}
+	
+	a.blueLink:hover
+	{
+		text-decoration: none;
+		color: black;
+		border-bottom: solid 1px;
+		font: 13px Tahoma;
+	}
+	
+	/*межстрчные интервалы*/
+	.line-height{ line-height: 2; }
+
+	/*подчеркивание снизу там где указывается Жанры и тд*/
+	.underlineBot
+	{
+		padding-bottom: 25px;
+		color: #E1DCDC;
+		border-bottom: solid 2px;
+		
+	}
+	
+	.basket
+	{
+		padding: 10px;
+		color: #E1DCDC;
+		border-left: solid 2px;
+		border-right: solid 2px;
+	}
+	
+	/*ползунок*/
+	input.range
+	{
+		padding-bottom: 10px;
+		height: 1px;
+		width: 207px;
+		background: white;
+		cursor: pointer;
+	}
+	
+	/*размеры строки с фильтрами*/
+	.dimenisionsStringWithFilters
+	{
+		width: 870px;
+		height: 60px;
+		padding-left: 10px;
+		color: #E1DCDC;
+		border-top: solid 2px;
+	}
+	
+	/*рамки фильтро("Товары со скидкой" "Есть отрывок")*/
+	.borderFilters
+	{
+		text-decoration: none;
+		padding: 6px 8px;
+		border: solid 1px;
+		color: black;
+		border-radius: 5px; 
+	}
+	
+	.borderFilters:hover {color: red;}
+	
+	/*сдвиг в строке филтров "Сбросить фильтр"*/
+	.resetFilters { padding-left:450px;}
+	
+	/*окна показывающие цену под ползунком*/
+	.windowsWithCost
+	{
+		padding-left: 15px;
+		width: 86px;
+		height: 35px;
+		border: solid 2px;
+		border-color: #E1DCDC;
+		border-radius: 5px;
+		font-size: 17px;
+	}
+	
+	
+	/*выделенные фильтры на панли слева*/
+	.selectFilters
+	{
+		color: #1E5480;
+		padding: 5px 0px 5px 0px;
+		text-decoration: none;
+		background-color: #fff8e1;
+		border: solid 0px;
+	}
+	
+	.selectFilters:hover
+	{
+		background-color: gray;
+		color: black;
+	}
+	
+	/*сдвиг крестика подальше вправо*/
+	.shiftCrossInTheFilters1 {padding-left: 60px;}
+	
+	.shiftCrossInTheFilters2 {padding-left: 95px; color: gray;}
+	
+	.indentParagraph {padding-left: 91px;}
+	
+	/*подчеркивание*/
+	hr
+	{
+		margin-top: 5px;
+		margin-left: 91px;
+		width: 210px;
+		border: none; 
+   		background-color: #E1DCDC; 
+    	color: #EDD7C6; 
+    	height: 2px
+	}
+	
+	/*поиск по серии*/
+	.searchBySeries
+	{
+		border: solid 2px;
+		border-color:#E1DCDC;
+		color: gray;
+		border-radius:5px;
+		padding-left: 10px;
+		width: 90px;
+		height: 30px; 
+		margin-left: 75px; 
+	}
+
+	.blackLink
+	{
+		text-decoration: none;
+		color: black;
+	}
+	
+	.blackLink:hover
+	{
+		color: #2842A4;
+		border-bottom: solid 1px;
+	}
+	
+	/*добавление в корзину*/
+	.buttonAddInBascet
+	{
+		width: 150px;
+		height: 30px;
+		border: solid 1px;
+		border-color: gray;
+		color:gray;
+		border-radius: 5px;
+		background-color: white;
+	}
+	
+	.buttonAddInBascet:hover
+	{
+		border: solid 0px;
+		color: white;
+		background-color: lightgreen;
+	}
+
+	/*при наведении на блок к книжкой происходит анимация*/
+	.animationPicture 
+	{
+		padding-left: 10px;
+		border: none;
+	}
+	
+	.animationPicture:hover
+	{
+		box-shadow:  0px 0px 15px; 
+		border: solid 1px;
+		border-radius: 5px;
+		border-color: red;
+	}
+
+	/*местрочные интервалы в погребе*/
+	.maxSpacingInTheCellar	{ line-height: 3;}
+	
+	/*отступы в подвале*/
+	.indentCellar{ padding: 40px 0px 120px 91px;}
+	
+	/*зачеркивание текста*/
+	.strike	{ text-decoration: line-through;}
+	</style>
+</head>
+
+<body>
+	<!--шапка-->
+	<table>
+		<tr class="colorString">
+			<td class="indentFirstSecond" id="widthFirstCell">
+				<span class="fontDefault">+7 (495) 268-08-41</span>
+			</td>
+			<td>
+				<span class="textAndLinkOnTheSky">Ежедневно с 8 до 20 (МСК)</span>
+				<span class="spacing">
+					<a href="#" class="textAndLinkOnTheSky punctualUnderline">Заказать звонок</a>
+				</span>
+			</td>
+			<td>
+				<a href="../../../../../../../../https@book24.ru/#aboutus" class="textAndLinkOnTheSky continuousUnderline">О нас</a>
+				<span class="shiftBetweenLink">
+					<a href="../../../../../../../../https@book24.ru/delivery/default.htm" class="textAndLinkOnTheSky continuousUnderline">Доставка</a>
+				</span>
+			</td>
+			<td>
+				<span class="shiftBetweenLink">
+					<a href="../../../../../../../../https@book24.ru/payment/default.htm" class="textAndLinkOnTheSky continuousUnderline">Оплата</a>
+				</span>	
+				<span class="shiftBetweenLink">
+					<a href="../../../../../../../../https@book24.ru/b2b/default.htm" class="textAndLinkOnTheSky continuousUnderline">Оптовым клиентам</a>
+				</span>
+			<span class="shiftBetweenLink">
+				<a href="../../../../../../../../https@book24.ru/mnogoru/default.htm" class="textAndLinkOnTheSky continuousUnderline"  >Бонусы Много.ру</a>
+			</span>
+			</td>
+		</tr>
+		<tr>
+			<td class="indentFirstSecond">
+				<img src="images/logo.svg" alt="#">
+			</td>
+			<td>
+				<span class="spacing fontDefault sizeDefault">
+					<b>Book24 — официальный магазин издательств:</b>
+				</span><br>
+				<span class="spacing">
+					<a href="../../../../../../../../https@book24.ru/b2b/default.htm" class="textAndLinkOnTheSky continuousUnderline"> ЭКСМО</a>,<a href="../../../../../../../../https@book24.ru/b2b/default.htm" class="textAndLinkOnTheSky continuousUnderline">АСТ</a>,<a href="../../../../../../../../https@book24.ru/b2b/default.htm" class="textAndLinkOnTheSky continuousUnderline">Манн Иванов и Фербер</a>,<a href="../../../../../../../../https@book24.ru/b2b/default.htm" class="textAndLinkOnTheSky continuousUnderline">Вентана Граф и Дрофа</a>
+				</span>
+			</td>
+			<td></td>
+			<td>
+				<span class="shiftCityOfResidence fontDefault sizeDefault" ><b>Мой город:</b><br>
+					<span class="shiftCityOfResidence">
+						<a href="#" class="textAndLinkOnTheSky punctualUnderline">Москва</a>
+					</span>
+				</span>
+			</td>
+		</tr>
+		<tr class="colorString">
+			<td class="indentThird">
+				<a href="#" id="catalog">Каталог</a>
+			</td>
+			<td class="monolit">
+				<input type="search" class="form" placeholder="Поиск книг, авторов"/>
+			</td>	
+			<td>
+				<input type="submit" class="submit" value="Найти"/>
+			</td>
+			<td>
+				<a href="#" class="textAndLinkOnTheSky punctualUnderline">
+					<span class="sizeAndFontLoginRegistered ">Вход</span>
+				</a>
+				<span class="spacing">
+					<a href="#" class="textAndLinkOnTheSky punctualUnderline">
+						<span class="sizeAndFontLoginRegistered ">Регистрация</span>
+					</a>
+				</span>
+				<span class="spacing">
+					<img src="images/korzina_icon.svg" alt="#" class="basket">
+				</span>
+			</td>
+		</tr>
+		<tr>
+			<td class="indentFirstSecond">
+				<a href="#" class="textAndLinkOnTheSky continuousUnderline">Book24.ru</a>
+				<span class="fontDefault sizeDefault spacing">Книги</span>
+			</td>
+		</tr>
+		<tr>
+			<td class="indentFirstSecond">
+				<span id="sizeCatalogBook" class="fontDefault">
+					<b>Каталог книг</b>
+				</span>
+			</td>
+		</tr>
+	</table>

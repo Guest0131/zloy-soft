@@ -1,0 +1,34 @@
+[2018.02.23 00:21:34] init
+[2018.02.23 00:21:34] null
+[2018.02.23 00:21:35] checkAnswer
+[2018.02.23 00:21:35] {"is_solved":true}
+[2018.02.23 12:02:12] init
+[2018.02.23 12:02:12] null
+[2018.02.23 12:02:15] checkAnswer
+[2018.02.23 12:02:15] <br />
+[2018.02.23 12:02:15] <b>Warning</b>:  Invalid argument supplied for foreach() in <b>/tmp/filestmp/task.php</b> on line <b>111</b><br />
+[2018.02.23 12:02:15] {"is_solved":false,"fail_text":null}
+[2018.02.23 12:03:20] init
+[2018.02.23 12:03:20] null
+[2018.02.23 12:03:23] checkAnswer
+[2018.02.23 12:03:23] <br />
+[2018.02.23 12:03:23] <b>Warning</b>:  Invalid argument supplied for foreach() in <b>/tmp/filestmp/task.php</b> on line <b>110</b><br />
+[2018.02.23 12:03:23] {"is_solved":false,"fail_text":null}
+[2018.02.23 12:03:47] init
+[2018.02.23 12:03:47] null
+[2018.02.23 12:03:49] checkAnswer
+[2018.02.23 12:03:49] <br />
+[2018.02.23 12:03:49] <b>Warning</b>:  Invalid argument supplied for foreach() in <b>/tmp/filestmp/task.php</b> on line <b>111</b><br />
+[2018.02.23 12:03:49] {"is_solved":false,"fail_text":null}
+[2018.02.23 12:04:00] init
+[2018.02.23 12:04:00] null
+[2018.02.23 12:04:02] checkAnswer
+[2018.02.23 12:04:02] <br />
+[2018.02.23 12:04:02] <b>Warning</b>:  Invalid argument supplied for foreach() in <b>/tmp/filestmp/task.php</b> on line <b>111</b><br />
+[2018.02.23 12:04:02] {"is_solved":false,"fail_text":null}
+[2018.02.23 12:15:24] init
+[2018.02.23 12:15:24] null
+[2018.02.23 12:15:27] checkAnswer
+[2018.02.23 12:15:27] <br />
+[2018.02.23 12:15:27] <b>Warning</b>:  Invalid argument supplied for foreach() in <b>/tmp/filestmp/task.php</b> on line <b>124</b><br />
+[2018.02.23 12:15:27] {"is_solved":false,"fail_text":null}

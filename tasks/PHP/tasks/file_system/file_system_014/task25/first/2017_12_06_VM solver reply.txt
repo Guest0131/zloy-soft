@@ -1,0 +1,158 @@
+[2017.12.06 22:54:26] init
+[2017.12.06 22:54:26] <br />
+[2017.12.06 22:54:26] <b>Warning</b>:  require(/var/www/html/revenge/vendor/composer/../paragonie/random_compat/lib/random.php): failed to open stream: No such file or directory in <b>/var/www/html/revenge/vendor/composer/autoload_real.php</b> on line <b>66</b><br />
+[2017.12.06 22:54:26] <br />
+[2017.12.06 22:54:26] <b>Fatal error</b>:  require(): Failed opening required '/var/www/html/revenge/vendor/composer/../paragonie/random_compat/lib/random.php' (include_path='.:/usr/local/lib/php') in <b>/var/www/html/revenge/vendor/composer/autoload_real.php</b> on line <b>66</b><br />
+[2017.12.06 22:54:26] checkAnswer
+[2017.12.06 22:54:26] <br />
+[2017.12.06 22:54:26] <b>Warning</b>:  require(/var/www/html/revenge/vendor/composer/../paragonie/random_compat/lib/random.php): failed to open stream: No such file or directory in <b>/var/www/html/revenge/vendor/composer/autoload_real.php</b> on line <b>66</b><br />
+[2017.12.06 22:54:26] <br />
+[2017.12.06 22:54:26] <b>Fatal error</b>:  require(): Failed opening required '/var/www/html/revenge/vendor/composer/../paragonie/random_compat/lib/random.php' (include_path='.:/usr/local/lib/php') in <b>/var/www/html/revenge/vendor/composer/autoload_real.php</b> on line <b>66</b><br />
+[2017.12.06 22:54:37] init
+[2017.12.06 22:54:37] <br />
+[2017.12.06 22:54:37] <b>Warning</b>:  require(/var/www/html/revenge/vendor/composer/../paragonie/random_compat/lib/random.php): failed to open stream: No such file or directory in <b>/var/www/html/revenge/vendor/composer/autoload_real.php</b> on line <b>66</b><br />
+[2017.12.06 22:54:37] <br />
+[2017.12.06 22:54:37] <b>Fatal error</b>:  require(): Failed opening required '/var/www/html/revenge/vendor/composer/../paragonie/random_compat/lib/random.php' (include_path='.:/usr/local/lib/php') in <b>/var/www/html/revenge/vendor/composer/autoload_real.php</b> on line <b>66</b><br />
+[2017.12.06 22:54:37] checkAnswer
+[2017.12.06 22:54:37] <br />
+[2017.12.06 22:54:37] <b>Warning</b>:  require(/var/www/html/revenge/vendor/composer/../paragonie/random_compat/lib/random.php): failed to open stream: No such file or directory in <b>/var/www/html/revenge/vendor/composer/autoload_real.php</b> on line <b>66</b><br />
+[2017.12.06 22:54:37] <br />
+[2017.12.06 22:54:37] <b>Fatal error</b>:  require(): Failed opening required '/var/www/html/revenge/vendor/composer/../paragonie/random_compat/lib/random.php' (include_path='.:/usr/local/lib/php') in <b>/var/www/html/revenge/vendor/composer/autoload_real.php</b> on line <b>66</b><br />
+[2017.12.06 22:54:39] init
+[2017.12.06 22:54:39] <br />
+[2017.12.06 22:54:39] <b>Warning</b>:  require(/var/www/html/revenge/vendor/composer/../paragonie/random_compat/lib/random.php): failed to open stream: No such file or directory in <b>/var/www/html/revenge/vendor/composer/autoload_real.php</b> on line <b>66</b><br />
+[2017.12.06 22:54:39] <br />
+[2017.12.06 22:54:39] <b>Fatal error</b>:  require(): Failed opening required '/var/www/html/revenge/vendor/composer/../paragonie/random_compat/lib/random.php' (include_path='.:/usr/local/lib/php') in <b>/var/www/html/revenge/vendor/composer/autoload_real.php</b> on line <b>66</b><br />
+[2017.12.06 22:54:39] checkAnswer
+[2017.12.06 22:54:39] <br />
+[2017.12.06 22:54:39] <b>Warning</b>:  require(/var/www/html/revenge/vendor/composer/../paragonie/random_compat/lib/random.php): failed to open stream: No such file or directory in <b>/var/www/html/revenge/vendor/composer/autoload_real.php</b> on line <b>66</b><br />
+[2017.12.06 22:54:39] <br />
+[2017.12.06 22:54:39] <b>Fatal error</b>:  require(): Failed opening required '/var/www/html/revenge/vendor/composer/../paragonie/random_compat/lib/random.php' (include_path='.:/usr/local/lib/php') in <b>/var/www/html/revenge/vendor/composer/autoload_real.php</b> on line <b>66</b><br />
+[2017.12.06 22:57:11] init
+[2017.12.06 22:57:11] <br />
+[2017.12.06 22:57:11] <b>Warning</b>:  require(/var/www/html/revenge/vendor/composer/../paragonie/random_compat/lib/random.php): failed to open stream: No such file or directory in <b>/var/www/html/revenge/vendor/composer/autoload_real.php</b> on line <b>66</b><br />
+[2017.12.06 22:57:11] <br />
+[2017.12.06 22:57:11] <b>Fatal error</b>:  require(): Failed opening required '/var/www/html/revenge/vendor/composer/../paragonie/random_compat/lib/random.php' (include_path='.:/usr/local/lib/php') in <b>/var/www/html/revenge/vendor/composer/autoload_real.php</b> on line <b>66</b><br />
+[2017.12.06 22:57:12] checkAnswer
+[2017.12.06 22:57:12] <br />
+[2017.12.06 22:57:12] <b>Warning</b>:  require(/var/www/html/revenge/vendor/composer/../paragonie/random_compat/lib/random.php): failed to open stream: No such file or directory in <b>/var/www/html/revenge/vendor/composer/autoload_real.php</b> on line <b>66</b><br />
+[2017.12.06 22:57:12] <br />
+[2017.12.06 22:57:12] <b>Fatal error</b>:  require(): Failed opening required '/var/www/html/revenge/vendor/composer/../paragonie/random_compat/lib/random.php' (include_path='.:/usr/local/lib/php') in <b>/var/www/html/revenge/vendor/composer/autoload_real.php</b> on line <b>66</b><br />
+[2017.12.06 22:57:16] init
+[2017.12.06 22:57:16] <br />
+[2017.12.06 22:57:16] <b>Warning</b>:  require(/var/www/html/revenge/vendor/composer/../paragonie/random_compat/lib/random.php): failed to open stream: No such file or directory in <b>/var/www/html/revenge/vendor/composer/autoload_real.php</b> on line <b>66</b><br />
+[2017.12.06 22:57:16] <br />
+[2017.12.06 22:57:16] <b>Fatal error</b>:  require(): Failed opening required '/var/www/html/revenge/vendor/composer/../paragonie/random_compat/lib/random.php' (include_path='.:/usr/local/lib/php') in <b>/var/www/html/revenge/vendor/composer/autoload_real.php</b> on line <b>66</b><br />
+[2017.12.06 22:57:17] checkAnswer
+[2017.12.06 22:57:17] <br />
+[2017.12.06 22:57:17] <b>Warning</b>:  require(/var/www/html/revenge/vendor/composer/../paragonie/random_compat/lib/random.php): failed to open stream: No such file or directory in <b>/var/www/html/revenge/vendor/composer/autoload_real.php</b> on line <b>66</b><br />
+[2017.12.06 22:57:17] <br />
+[2017.12.06 22:57:17] <b>Fatal error</b>:  require(): Failed opening required '/var/www/html/revenge/vendor/composer/../paragonie/random_compat/lib/random.php' (include_path='.:/usr/local/lib/php') in <b>/var/www/html/revenge/vendor/composer/autoload_real.php</b> on line <b>66</b><br />
+[2017.12.06 22:57:23] init
+[2017.12.06 22:57:23] <br />
+[2017.12.06 22:57:23] <b>Warning</b>:  require(/var/www/html/revenge/vendor/composer/../paragonie/random_compat/lib/random.php): failed to open stream: No such file or directory in <b>/var/www/html/revenge/vendor/composer/autoload_real.php</b> on line <b>66</b><br />
+[2017.12.06 22:57:23] <br />
+[2017.12.06 22:57:23] <b>Fatal error</b>:  require(): Failed opening required '/var/www/html/revenge/vendor/composer/../paragonie/random_compat/lib/random.php' (include_path='.:/usr/local/lib/php') in <b>/var/www/html/revenge/vendor/composer/autoload_real.php</b> on line <b>66</b><br />
+[2017.12.06 22:57:23] checkAnswer
+[2017.12.06 22:57:23] <br />
+[2017.12.06 22:57:23] <b>Warning</b>:  require(/var/www/html/revenge/vendor/composer/../paragonie/random_compat/lib/random.php): failed to open stream: No such file or directory in <b>/var/www/html/revenge/vendor/composer/autoload_real.php</b> on line <b>66</b><br />
+[2017.12.06 22:57:23] <br />
+[2017.12.06 22:57:23] <b>Fatal error</b>:  require(): Failed opening required '/var/www/html/revenge/vendor/composer/../paragonie/random_compat/lib/random.php' (include_path='.:/usr/local/lib/php') in <b>/var/www/html/revenge/vendor/composer/autoload_real.php</b> on line <b>66</b><br />
+[2017.12.06 22:57:38] init
+[2017.12.06 22:57:38] <br />
+[2017.12.06 22:57:38] <b>Warning</b>:  require(/var/www/html/revenge/vendor/composer/../paragonie/random_compat/lib/random.php): failed to open stream: No such file or directory in <b>/var/www/html/revenge/vendor/composer/autoload_real.php</b> on line <b>66</b><br />
+[2017.12.06 22:57:38] <br />
+[2017.12.06 22:57:38] <b>Fatal error</b>:  require(): Failed opening required '/var/www/html/revenge/vendor/composer/../paragonie/random_compat/lib/random.php' (include_path='.:/usr/local/lib/php') in <b>/var/www/html/revenge/vendor/composer/autoload_real.php</b> on line <b>66</b><br />
+[2017.12.06 22:57:38] checkAnswer
+[2017.12.06 22:57:38] <br />
+[2017.12.06 22:57:38] <b>Warning</b>:  require(/var/www/html/revenge/vendor/composer/../paragonie/random_compat/lib/random.php): failed to open stream: No such file or directory in <b>/var/www/html/revenge/vendor/composer/autoload_real.php</b> on line <b>66</b><br />
+[2017.12.06 22:57:38] <br />
+[2017.12.06 22:57:38] <b>Fatal error</b>:  require(): Failed opening required '/var/www/html/revenge/vendor/composer/../paragonie/random_compat/lib/random.php' (include_path='.:/usr/local/lib/php') in <b>/var/www/html/revenge/vendor/composer/autoload_real.php</b> on line <b>66</b><br />
+[2017.12.06 22:58:50] init
+[2017.12.06 22:58:50] <br />
+[2017.12.06 22:58:50] <b>Warning</b>:  require(/var/www/html/revenge/vendor/composer/../paragonie/random_compat/lib/random.php): failed to open stream: No such file or directory in <b>/var/www/html/revenge/vendor/composer/autoload_real.php</b> on line <b>66</b><br />
+[2017.12.06 22:58:50] <br />
+[2017.12.06 22:58:50] <b>Fatal error</b>:  require(): Failed opening required '/var/www/html/revenge/vendor/composer/../paragonie/random_compat/lib/random.php' (include_path='.:/usr/local/lib/php') in <b>/var/www/html/revenge/vendor/composer/autoload_real.php</b> on line <b>66</b><br />
+[2017.12.06 22:58:50] checkAnswer
+[2017.12.06 22:58:50] <br />
+[2017.12.06 22:58:50] <b>Warning</b>:  require(/var/www/html/revenge/vendor/composer/../paragonie/random_compat/lib/random.php): failed to open stream: No such file or directory in <b>/var/www/html/revenge/vendor/composer/autoload_real.php</b> on line <b>66</b><br />
+[2017.12.06 22:58:50] <br />
+[2017.12.06 22:58:50] <b>Fatal error</b>:  require(): Failed opening required '/var/www/html/revenge/vendor/composer/../paragonie/random_compat/lib/random.php' (include_path='.:/usr/local/lib/php') in <b>/var/www/html/revenge/vendor/composer/autoload_real.php</b> on line <b>66</b><br />
+[2017.12.06 23:07:50] init
+[2017.12.06 23:07:50] <br />
+[2017.12.06 23:07:50] <b>Warning</b>:  require(/var/www/html/revenge/vendor/composer/../paragonie/random_compat/lib/random.php): failed to open stream: No such file or directory in <b>/var/www/html/revenge/vendor/composer/autoload_real.php</b> on line <b>66</b><br />
+[2017.12.06 23:07:50] <br />
+[2017.12.06 23:07:50] <b>Fatal error</b>:  require(): Failed opening required '/var/www/html/revenge/vendor/composer/../paragonie/random_compat/lib/random.php' (include_path='.:/usr/local/lib/php') in <b>/var/www/html/revenge/vendor/composer/autoload_real.php</b> on line <b>66</b><br />
+[2017.12.06 23:07:51] checkAnswer
+[2017.12.06 23:07:51] <br />
+[2017.12.06 23:07:51] <b>Warning</b>:  require(/var/www/html/revenge/vendor/composer/../paragonie/random_compat/lib/random.php): failed to open stream: No such file or directory in <b>/var/www/html/revenge/vendor/composer/autoload_real.php</b> on line <b>66</b><br />
+[2017.12.06 23:07:51] <br />
+[2017.12.06 23:07:51] <b>Fatal error</b>:  require(): Failed opening required '/var/www/html/revenge/vendor/composer/../paragonie/random_compat/lib/random.php' (include_path='.:/usr/local/lib/php') in <b>/var/www/html/revenge/vendor/composer/autoload_real.php</b> on line <b>66</b><br />
+[2017.12.06 23:24:21] init
+[2017.12.06 23:24:21] null
+[2017.12.06 23:24:22] checkAnswer
+[2017.12.06 23:24:22] {"is_solved":true}
+[2017.12.06 23:26:29] init
+[2017.12.06 23:26:29] null
+[2017.12.06 23:26:31] checkAnswer
+[2017.12.06 23:26:31] {"is_solved":false,"fail_text":"\u041d\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0444\u0430\u0439\u043b\u043e\u0432"}
+[2017.12.06 23:26:45] init
+[2017.12.06 23:26:45] null
+[2017.12.06 23:26:46] checkAnswer
+[2017.12.06 23:26:46] {"is_solved":true}
+[2017.12.06 23:27:19] init
+[2017.12.06 23:27:19] null
+[2017.12.06 23:27:20] checkAnswer
+[2017.12.06 23:27:20] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2017.12.06 23:27:28] init
+[2017.12.06 23:27:28] null
+[2017.12.06 23:27:29] checkAnswer
+[2017.12.06 23:27:29] {"is_solved":true}
+[2017.12.06 23:27:56] init
+[2017.12.06 23:27:56] null
+[2017.12.06 23:27:57] checkAnswer
+[2017.12.06 23:27:57] {"is_solved":false,"fail_text":"\u041d\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u0435 \u0444\u0430\u0439\u043b\u0430"}
+[2017.12.06 23:29:45] init
+[2017.12.06 23:29:45] null
+[2017.12.06 23:29:46] checkAnswer
+[2017.12.06 23:29:46] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2017.12.06 23:30:41] init
+[2017.12.06 23:30:41] null
+[2017.12.06 23:30:42] checkAnswer
+[2017.12.06 23:30:42] {"is_solved":false,"fail_text":"\u041d\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u0435 \u0444\u0430\u0439\u043b\u0430"}
+[2017.12.06 23:32:38] init
+[2017.12.06 23:32:38] null
+[2017.12.06 23:32:40] checkAnswer
+[2017.12.06 23:32:40] {"is_solved":false,"fail_text":"\u041d\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u0435 \u0444\u0430\u0439\u043b\u0430"}
+[2017.12.06 23:33:31] init
+[2017.12.06 23:33:31] null
+[2017.12.06 23:33:32] checkAnswer
+[2017.12.06 23:33:32] {"is_solved":false,"fail_text":"\/tmp\/files"}
+[2017.12.06 23:44:22] init
+[2017.12.06 23:44:22] null
+[2017.12.06 23:44:24] checkAnswer
+[2017.12.06 23:44:24] {"is_solved":false,"fail_text":"\/tmp\/task\/1kb.txt"}
+[2017.12.06 23:48:45] init
+[2017.12.06 23:48:45] null
+[2017.12.06 23:48:46] checkAnswer
+[2017.12.06 23:48:46] {"is_solved":false,"errors":["\u041e\u0436\u0438\u0434\u0430\u0435\u0442\u0441\u044f false \u0432 \u0441\u043b\u0443\u0447\u0430\u0435 \u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0438\u044f \u0444\u0430\u0439\u043b\u0430"]}
+[2017.12.06 23:49:46] init
+[2017.12.06 23:49:46] null
+[2017.12.06 23:49:47] checkAnswer
+[2017.12.06 23:49:47] {"is_solved":false,"fail_text":"\u041d\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u0435 \u0444\u0430\u0439\u043b\u0430"}
+[2017.12.06 23:51:05] init
+[2017.12.06 23:51:05] null
+[2017.12.06 23:51:06] checkAnswer
+[2017.12.06 23:51:06] {"is_solved":false,"fail_text":"\u041d\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u0435 \u0444\u0430\u0439\u043b\u0430"}
+[2017.12.06 23:56:21] init
+[2017.12.06 23:56:21] null
+[2017.12.06 23:56:22] checkAnswer
+[2017.12.06 23:56:22] {"is_solved":false,"errors":["\u041e\u0436\u0438\u0434\u0430\u0435\u0442\u0441\u044f false \u0432 \u0441\u043b\u0443\u0447\u0430\u0435 \u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0438\u044f \u0444\u0430\u0439\u043b\u0430"]}
+[2017.12.06 23:57:03] init
+[2017.12.06 23:57:03] null
+[2017.12.06 23:57:03] checkAnswer
+[2017.12.06 23:57:03] {"is_solved":false,"errors":["\u0417\u0430\u043f\u0440\u0435\u0449\u0435\u043d\u043d\u043e \u043a \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044e: <b>eval<\/b>"],"warnings":["<b>\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438 \u0438\u0437 \u0442\u0435\u043c<\/b>:<br \/>\u0420\u0430\u0431\u043e\u0442\u0430 \u0441 \u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u043c\u0438 (http:\/\/php.net\/manual\/en\/ref.var.php)<br \/>\u0421\u0442\u0440\u043e\u043a\u043e\u0432\u044b\u0435 \u0444\u0443\u043d\u043a\u0446\u0438\u0438 (http:\/\/php.net\/manual\/en\/ref.strings.php)<br \/>\u041c\u043d\u043e\u0433\u043e\u0431\u0430\u0439\u0442\u043e\u0432\u044b\u0435 \u0441\u0442\u0440\u043e\u043a\u0438 (http:\/\/php.net\/manual\/en\/ref.mbstring.php)<br \/>\u0424\u0430\u0439\u043b\u043e\u0432\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430 (http:\/\/php.net\/manual\/ru\/ref.filesystem.php)<br \/>\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0432\u044b\u0432\u043e\u0434\u043e\u043c (http:\/\/php.net\/manual\/en\/ref.outcontrol.php)<br \/>\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0444\u0443\u043d\u043a\u0446\u0438\u0438 (http:\/\/php.net\/manual\/en\/ref.math.php)<br \/>\u0414\u0430\u0442\u0430 \u0438 \u0432\u0440\u0435\u043c\u044f (http:\/\/php.net\/manual\/ru\/ref.datetime.php)<br \/><b>\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438<\/b>:<br \/>sleep<br \/>usleep"]}
+[2017.12.06 23:57:45] init
+[2017.12.06 23:57:45] null
+[2017.12.06 23:57:46] checkAnswer
+[2017.12.06 23:57:46] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}

@@ -1,0 +1,576 @@
+[2017.12.12 11:46:42] init
+[2017.12.12 11:46:42] null
+[2017.12.12 11:46:45] checkAnswer
+[2017.12.12 11:46:45] {"is_solved":false,"errors":[null]}
+[2017.12.12 11:49:34] init
+[2017.12.12 11:49:34] null
+[2017.12.12 11:49:35] checkAnswer
+[2017.12.12 11:49:35] {"is_solved":false,"errors":[null]}
+[2017.12.12 11:51:33] init
+[2017.12.12 11:51:33] null
+[2017.12.12 11:51:34] checkAnswer
+[2017.12.12 11:51:34] <br />
+[2017.12.12 11:51:34] <b>Warning</b>:  file_get_contents(/tmp/filestmp1/result.txt): failed to open stream: No such file or directory in <b>/var/www/html/revenge/lib/Solver/PHP/PHP.php</b> on line <b>101</b><br />
+[2017.12.12 11:51:34] null
+[2017.12.12 11:53:20] init
+[2017.12.12 11:53:20] null
+[2017.12.12 11:53:21] checkAnswer
+[2017.12.12 11:53:21] <br />
+[2017.12.12 11:53:21] <b>Warning</b>:  file_get_contents(/tmp/filestmp1/result.txt): failed to open stream: No such file or directory in <b>/var/www/html/revenge/lib/Solver/PHP/PHP.php</b> on line <b>101</b><br />
+[2017.12.12 11:53:21] null
+[2017.12.12 11:54:32] init
+[2017.12.12 11:54:32] null
+[2017.12.12 11:54:33] checkAnswer
+[2017.12.12 11:54:33] {"is_solved":false,"errors":[null]}
+[2017.12.12 12:08:04] init
+[2017.12.12 12:08:04] <br />
+[2017.12.12 12:08:04] <b>Parse error</b>:  syntax error, unexpected '}' in <b>/tmp/filestmp1/task.php</b> on line <b>142</b><br />
+[2017.12.12 12:08:04] checkAnswer
+[2017.12.12 12:08:04] <br />
+[2017.12.12 12:08:04] <b>Parse error</b>:  syntax error, unexpected '}' in <b>/tmp/filestmp1/task.php</b> on line <b>142</b><br />
+[2017.12.12 12:08:49] init
+[2017.12.12 12:08:49] null
+[2017.12.12 12:08:50] checkAnswer
+[2017.12.12 12:08:50] {"is_solved":true}
+[2017.12.12 12:16:54] init
+[2017.12.12 12:16:54] null
+[2017.12.12 12:16:55] checkAnswer
+[2017.12.12 12:16:55] <br />
+[2017.12.12 12:16:55] <b>Warning</b>:  file_get_contents(/tmp/filestmp1/result.txt): failed to open stream: No such file or directory in <b>/var/www/html/revenge/lib/Solver/PHP/PHP.php</b> on line <b>101</b><br />
+[2017.12.12 12:16:55] null
+[2017.12.12 12:17:54] init
+[2017.12.12 12:17:54] null
+[2017.12.12 12:17:55] checkAnswer
+[2017.12.12 12:17:55] <br />
+[2017.12.12 12:17:55] <b>Warning</b>:  file_get_contents(/tmp/filestmp1/result.txt): failed to open stream: No such file or directory in <b>/var/www/html/revenge/lib/Solver/PHP/PHP.php</b> on line <b>101</b><br />
+[2017.12.12 12:17:55] null
+[2017.12.12 12:23:22] init
+[2017.12.12 12:23:22] <br />
+[2017.12.12 12:23:22] <b>Parse error</b>:  syntax error, unexpected 'return' (T_RETURN) in <b>/tmp/filestmp1/task.php</b> on line <b>135</b><br />
+[2017.12.12 12:23:22] checkAnswer
+[2017.12.12 12:23:22] <br />
+[2017.12.12 12:23:22] <b>Parse error</b>:  syntax error, unexpected 'return' (T_RETURN) in <b>/tmp/filestmp1/task.php</b> on line <b>135</b><br />
+[2017.12.12 12:23:44] init
+[2017.12.12 12:23:44] null
+[2017.12.12 12:23:45] checkAnswer
+[2017.12.12 12:23:45] {"is_solved":true}
+[2017.12.12 12:24:37] init
+[2017.12.12 12:24:37] null
+[2017.12.12 12:24:38] checkAnswer
+[2017.12.12 12:24:38] {"is_solved":true}
+[2017.12.12 12:26:40] init
+[2017.12.12 12:26:40] null
+[2017.12.12 12:26:41] checkAnswer
+[2017.12.12 12:26:41] {"is_solved":true}
+[2017.12.12 12:27:44] init
+[2017.12.12 12:27:44] null
+[2017.12.12 12:27:45] checkAnswer
+[2017.12.12 12:27:45] {"is_solved":true}
+[2017.12.12 12:28:08] init
+[2017.12.12 12:28:08] null
+[2017.12.12 12:28:09] checkAnswer
+[2017.12.12 12:28:09] {"is_solved":true}
+[2017.12.12 12:30:26] init
+[2017.12.12 12:30:26] null
+[2017.12.12 12:30:27] checkAnswer
+[2017.12.12 12:30:27] {"is_solved":true}
+[2017.12.12 12:32:00] init
+[2017.12.12 12:32:00] null
+[2017.12.12 12:32:01] checkAnswer
+[2017.12.12 12:32:01] {"is_solved":true}
+[2017.12.12 12:34:38] init
+[2017.12.12 12:34:38] null
+[2017.12.12 12:34:39] checkAnswer
+[2017.12.12 12:34:39] {"is_solved":true}
+[2017.12.12 12:35:40] init
+[2017.12.12 12:35:40] null
+[2017.12.12 12:35:41] checkAnswer
+[2017.12.12 12:35:41] {"is_solved":true}
+[2017.12.12 15:32:08] init
+[2017.12.12 15:32:08] null
+[2017.12.12 15:32:08] checkAnswer
+[2017.12.12 15:32:08] {"is_solved":true}
+[2017.12.12 15:32:41] init
+[2017.12.12 15:32:41] null
+[2017.12.12 15:32:41] checkAnswer
+[2017.12.12 15:32:41] {"is_solved":false,"fail_text":"\u041d\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u0435 \u0444\u0430\u0439\u043b\u0430"}
+[2017.12.12 15:33:50] init
+[2017.12.12 15:33:50] null
+[2017.12.12 15:33:51] checkAnswer
+[2017.12.12 15:33:51] {"is_solved":false,"errors":["\u041d\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f"]}
+[2017.12.12 15:34:14] init
+[2017.12.12 15:34:14] null
+[2017.12.12 15:34:15] checkAnswer
+[2017.12.12 15:34:15] {"is_solved":false,"errors":["\u041d\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f"]}
+[2017.12.12 15:35:41] init
+[2017.12.12 15:35:41] null
+[2017.12.12 15:35:42] checkAnswer
+[2017.12.12 15:35:42] {"is_solved":false,"errors":["\u041d\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f"]}
+[2017.12.12 15:42:16] init
+[2017.12.12 15:42:16] null
+[2017.12.12 15:42:24] checkAnswer
+[2017.12.12 15:42:24] {"is_solved":false,"errors":["<br \/>\n<b>Warning<\/b>:  chdir(): No such file or directory (errno 2) in <b>\/tmp\/filestmp1\/task.php<\/b> on line <b>177<\/b><br \/>\n"]}
+[2017.12.12 15:43:48] init
+[2017.12.12 15:43:48] null
+[2017.12.12 15:44:10] checkAnswer
+[2017.12.12 15:44:10] {"is_solved":true}
+[2017.12.12 16:01:28] init
+[2017.12.12 16:01:28] null
+[2017.12.12 16:01:29] checkAnswer
+[2017.12.12 16:01:29] <br />
+[2017.12.12 16:01:29] <b>Fatal error</b>:  Cannot use object of type stdClass as array in <b>/tmp/filestmp1/task.php</b> on line <b>195</b><br />
+[2017.12.12 16:01:36] init
+[2017.12.12 16:01:36] null
+[2017.12.12 16:01:37] checkAnswer
+[2017.12.12 16:01:37] <br />
+[2017.12.12 16:01:37] <b>Fatal error</b>:  Cannot use object of type stdClass as array in <b>/tmp/filestmp1/task.php</b> on line <b>195</b><br />
+[2017.12.12 16:02:29] init
+[2017.12.12 16:02:29] null
+[2017.12.12 16:02:30] checkAnswer
+[2017.12.12 16:02:30] <br />
+[2017.12.12 16:02:30] <b>Fatal error</b>:  Cannot use object of type stdClass as array in <b>/tmp/filestmp1/task.php</b> on line <b>195</b><br />
+[2017.12.12 16:03:11] init
+[2017.12.12 16:03:11] null
+[2017.12.12 16:03:13] checkAnswer
+[2017.12.12 16:03:13] <br />
+[2017.12.12 16:03:13] <b>Fatal error</b>:  Cannot use object of type stdClass as array in <b>/tmp/filestmp1/task.php</b> on line <b>195</b><br />
+[2017.12.12 16:03:23] init
+[2017.12.12 16:03:23] null
+[2017.12.12 16:03:24] checkAnswer
+[2017.12.12 16:03:24] <br />
+[2017.12.12 16:03:24] <b>Fatal error</b>:  Cannot use object of type stdClass as array in <b>/tmp/filestmp1/task.php</b> on line <b>195</b><br />
+[2017.12.12 16:04:14] init
+[2017.12.12 16:04:14] null
+[2017.12.12 16:04:15] checkAnswer
+[2017.12.12 16:04:15] <br />
+[2017.12.12 16:04:15] <b>Fatal error</b>:  Cannot use object of type stdClass as array in <b>/tmp/filestmp1/task.php</b> on line <b>195</b><br />
+[2017.12.12 16:07:06] init
+[2017.12.12 16:07:06] null
+[2017.12.12 16:07:07] checkAnswer
+[2017.12.12 16:07:07] <br />
+[2017.12.12 16:07:07] <b>Fatal error</b>:  Cannot use object of type stdClass as array in <b>/tmp/filestmp1/task.php</b> on line <b>195</b><br />
+[2017.12.12 16:08:07] init
+[2017.12.12 16:08:07] null
+[2017.12.12 16:08:08] checkAnswer
+[2017.12.12 16:08:08] <br />
+[2017.12.12 16:08:08] <b>Fatal error</b>:  Cannot use object of type stdClass as array in <b>/tmp/filestmp1/task.php</b> on line <b>195</b><br />
+[2017.12.12 16:09:00] init
+[2017.12.12 16:09:00] null
+[2017.12.12 16:09:01] checkAnswer
+[2017.12.12 16:09:01] <br />
+[2017.12.12 16:09:01] <b>Fatal error</b>:  Cannot use object of type stdClass as array in <b>/tmp/filestmp1/task.php</b> on line <b>195</b><br />
+[2017.12.12 16:10:17] init
+[2017.12.12 16:10:17] null
+[2017.12.12 16:10:18] checkAnswer
+[2017.12.12 16:10:18] <br />
+[2017.12.12 16:10:18] <b>Notice</b>:  Undefined variable: result in <b>/tmp/filestmp1/task.php</b> on line <b>204</b><br />
+[2017.12.12 16:10:18] <br />
+[2017.12.12 16:10:18] <b>Notice</b>:  Undefined variable: result in <b>/tmp/filestmp1/task.php</b> on line <b>205</b><br />
+[2017.12.12 16:10:18] null
+[2017.12.12 16:11:08] init
+[2017.12.12 16:11:08] null
+[2017.12.12 16:11:09] checkAnswer
+[2017.12.12 16:11:09] <br />
+[2017.12.12 16:11:09] <b>Notice</b>:  Undefined variable: checkResult in <b>/tmp/filestmp1/task.php</b> on line <b>193</b><br />
+[2017.12.12 16:11:09] <br />
+[2017.12.12 16:11:09] <b>Notice</b>:  Undefined variable: checkResult in <b>/tmp/filestmp1/task.php</b> on line <b>196</b><br />
+[2017.12.12 16:11:09] <br />
+[2017.12.12 16:11:09] <b>Notice</b>:  Undefined variable: checkResult in <b>/tmp/filestmp1/task.php</b> on line <b>197</b><br />
+[2017.12.12 16:11:09] {"is_solved":false,"errors":["\u0417\u0430\u043f\u0440\u0435\u0449\u0435\u043d\u043d\u043e \u043a \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044e: <b><\/b>"],"warnings":[null]}
+[2017.12.12 16:12:11] init
+[2017.12.12 16:12:11] null
+[2017.12.12 16:12:12] checkAnswer
+[2017.12.12 16:12:12] <br />
+[2017.12.12 16:12:12] <b>Notice</b>:  Undefined index: is_solved in <b>/tmp/filestmp1/task.php</b> on line <b>196</b><br />
+[2017.12.12 16:12:12] {"result":true}
+[2017.12.12 16:13:50] init
+[2017.12.12 16:13:50] null
+[2017.12.12 16:13:51] checkAnswer
+[2017.12.12 16:13:51] <br />
+[2017.12.12 16:13:51] <b>Fatal error</b>:  Cannot use object of type stdClass as array in <b>/tmp/filestmp1/task.php</b> on line <b>206</b><br />
+[2017.12.12 16:15:17] init
+[2017.12.12 16:15:17] null
+[2017.12.12 16:15:18] checkAnswer
+[2017.12.12 16:15:18] <br />
+[2017.12.12 16:15:18] <b>Fatal error</b>:  Cannot use object of type stdClass as array in <b>/tmp/filestmp1/task.php</b> on line <b>195</b><br />
+[2017.12.12 16:16:32] init
+[2017.12.12 16:16:32] null
+[2017.12.12 16:16:33] checkAnswer
+[2017.12.12 16:16:33] {"is_solved":true}
+[2017.12.12 16:17:26] init
+[2017.12.12 16:17:26] null
+[2017.12.12 16:17:27] checkAnswer
+[2017.12.12 16:17:27] <br />
+[2017.12.12 16:17:27] <b>Fatal error</b>:  Cannot use object of type stdClass as array in <b>/tmp/filestmp1/task.php</b> on line <b>126</b><br />
+[2017.12.12 16:20:35] init
+[2017.12.12 16:20:35] null
+[2017.12.12 16:20:36] checkAnswer
+[2017.12.12 16:20:36] <br />
+[2017.12.12 16:20:36] <b>Notice</b>:  Undefined variable: checkResult in <b>/tmp/filestmp1/task.php</b> on line <b>126</b><br />
+[2017.12.12 16:20:36] <br />
+[2017.12.12 16:20:36] <b>Notice</b>:  Undefined variable: checkResult in <b>/tmp/filestmp1/task.php</b> on line <b>129</b><br />
+[2017.12.12 16:20:36] <br />
+[2017.12.12 16:20:36] <b>Notice</b>:  Undefined variable: checkResult in <b>/tmp/filestmp1/task.php</b> on line <b>130</b><br />
+[2017.12.12 16:20:36] {"is_solved":false,"errors":["\u0417\u0430\u043f\u0440\u0435\u0449\u0435\u043d\u043d\u043e \u043a \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044e: <b><\/b>"],"warnings":[null]}
+[2017.12.12 16:22:18] init
+[2017.12.12 16:22:18] null
+[2017.12.12 16:22:19] checkAnswer
+[2017.12.12 16:22:19] {"is_solved":true}
+[2017.12.12 16:24:05] init
+[2017.12.12 16:24:05] null
+[2017.12.12 16:24:06] checkAnswer
+[2017.12.12 16:24:06] <br />
+[2017.12.12 16:24:06] <b>Notice</b>:  Undefined index: is_solved in <b>/tmp/filestmp1/task.php</b> on line <b>204</b><br />
+[2017.12.12 16:24:06] {"result":true}
+[2017.12.12 16:24:10] init
+[2017.12.12 16:24:10] null
+[2017.12.12 16:24:11] checkAnswer
+[2017.12.12 16:24:11] <br />
+[2017.12.12 16:24:11] <b>Notice</b>:  Undefined index: is_solved in <b>/tmp/filestmp1/task.php</b> on line <b>204</b><br />
+[2017.12.12 16:24:11] {"result":true}
+[2017.12.12 16:25:37] init
+[2017.12.12 16:25:37] null
+[2017.12.12 16:25:38] checkAnswer
+[2017.12.12 16:25:38] <br />
+[2017.12.12 16:25:38] <b>Notice</b>:  Undefined index: is_solved in <b>/tmp/filestmp1/task.php</b> on line <b>204</b><br />
+[2017.12.12 16:25:38] {"result":true}
+[2017.12.12 18:44:11] init
+[2017.12.12 18:44:11] <br />
+[2017.12.12 18:44:11] <b>Parse error</b>:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in <b>/tmp/filestmp1/task.php</b> on line <b>199</b><br />
+[2017.12.12 18:44:11] checkAnswer
+[2017.12.12 18:44:11] <br />
+[2017.12.12 18:44:11] <b>Parse error</b>:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in <b>/tmp/filestmp1/task.php</b> on line <b>199</b><br />
+[2017.12.12 18:46:42] init
+[2017.12.12 18:46:42] null
+[2017.12.12 18:46:43] checkAnswer
+[2017.12.12 18:46:43] {"is_solved":false}
+[2017.12.12 18:48:42] init
+[2017.12.12 18:48:42] null
+[2017.12.12 18:48:42] checkAnswer
+[2017.12.12 18:48:42] {"is_solved":false}
+[2017.12.12 18:53:23] init
+[2017.12.12 18:53:23] null
+[2017.12.12 18:53:25] checkAnswer
+[2017.12.12 18:53:25] <br />
+[2017.12.12 18:53:25] <b>Fatal error</b>:  Cannot use object of type stdClass as array in <b>/tmp/filestmp1/task.php</b> on line <b>195</b><br />
+[2017.12.12 18:58:04] init
+[2017.12.12 18:58:04] null
+[2017.12.12 18:58:05] checkAnswer
+[2017.12.12 18:58:05] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\nNotice: Use of undefined constant STUDENTID - assumed 'STUDENTID' in \/root\/lib\/TmpDirectory.php on line 10\n\nNotice: Use of undefined constant STUDENTID - assumed 'STUDENTID' in \/root\/lib\/TmpDirectory.php on line 10\n\nNotice: Use of undefined constant STUDENTID - assumed 'STUDENTID' in \/root\/lib\/TmpDirectory.php on line 10\n\nNotice: Use of undefined constant STUDENTID - assumed 'STUDENTID' in \/root\/lib\/TmpDirectory.php on line 10\n\nNotice: Use of undefined constant STUDENTID - assumed 'STUDENTID' in \/root\/lib\/TmpDirectory.php on line 10\n\nNotice: Use of undefined constant STUDENTID - assumed 'STUDENTID' in \/root\/lib\/TmpDirectory.php on line 10\n<\/pre>"}
+[2017.12.12 19:00:37] init
+[2017.12.12 19:00:37] null
+[2017.12.12 19:00:58] checkAnswer
+[2017.12.12 19:00:58] {"is_solved":true}
+[2017.12.12 19:01:15] init
+[2017.12.12 19:01:15] null
+[2017.12.12 19:01:28] checkAnswer
+[2017.12.12 19:01:28] {"is_solved":false,"errors":["\u041d\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f"]}
+[2017.12.12 19:02:53] init
+[2017.12.12 19:02:53] null
+[2017.12.12 19:02:53] checkAnswer
+[2017.12.12 19:02:53] {"is_solved":false,"errors":["\u0417\u0430\u043f\u0440\u0435\u0449\u0435\u043d\u043d\u043e \u043a \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044e: <b>echo<\/b>"],"warnings":["<b>\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438 \u0438\u0437 \u0442\u0435\u043c<\/b>:<br \/>"]}
+[2017.12.12 19:03:11] init
+[2017.12.12 19:03:11] null
+[2017.12.12 19:03:12] checkAnswer
+[2017.12.12 19:03:12] {"is_solved":false,"errors":["\u0417\u0430\u043f\u0440\u0435\u0449\u0435\u043d\u043d\u043e \u043a \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044e: <b>echo<\/b>"],"warnings":["<b>\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438 \u0438\u0437 \u0442\u0435\u043c<\/b>:<br \/>"]}
+[2017.12.12 19:03:27] init
+[2017.12.12 19:03:27] null
+[2017.12.12 19:03:27] checkAnswer
+[2017.12.12 19:03:27] {"is_solved":false,"errors":["\u0417\u0430\u043f\u0440\u0435\u0449\u0435\u043d\u043d\u043e \u043a \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044e: <b>echo<\/b>"],"warnings":["<b>\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438 \u0438\u0437 \u0442\u0435\u043c<\/b>:<br \/>"]}
+[2017.12.12 19:05:28] init
+[2017.12.12 19:05:28] null
+[2017.12.12 19:05:28] checkAnswer
+[2017.12.12 19:05:28] <br />
+[2017.12.12 19:05:28] <b>Notice</b>:  Trying to get property of non-object in <b>/tmp/filestmp1/task.php</b> on line <b>151</b><br />
+[2017.12.12 19:05:28] <br />
+[2017.12.12 19:05:28] <b>Notice</b>:  Trying to get property of non-object in <b>/tmp/filestmp1/task.php</b> on line <b>154</b><br />
+[2017.12.12 19:05:28] <br />
+[2017.12.12 19:05:28] <b>Notice</b>:  Trying to get property of non-object in <b>/tmp/filestmp1/task.php</b> on line <b>155</b><br />
+[2017.12.12 19:05:28] {"is_solved":false,"errors":["\u0417\u0430\u043f\u0440\u0435\u0449\u0435\u043d\u043d\u043e \u043a \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044e: <b><\/b>"],"warnings":[null]}
+[2017.12.12 19:06:09] init
+[2017.12.12 19:06:09] null
+[2017.12.12 19:06:30] checkAnswer
+[2017.12.12 19:06:30] {"is_solved":true}
+[2017.12.12 19:08:11] init
+[2017.12.12 19:08:11] null
+[2017.12.12 19:08:14] checkAnswer
+[2017.12.12 19:08:14] {"is_solved":true}
+[2017.12.12 19:30:51] init
+[2017.12.12 19:30:51] null
+[2017.12.12 19:30:53] checkAnswer
+[2017.12.12 19:30:53] {"is_solved":true}
+[2017.12.12 19:32:30] init
+[2017.12.12 19:32:30] null
+[2017.12.12 19:32:31] checkAnswer
+[2017.12.12 19:32:31] {"is_solved":true}
+[2017.12.12 19:32:51] init
+[2017.12.12 19:32:51] null
+[2017.12.12 19:32:52] checkAnswer
+[2017.12.12 19:32:52] {"is_solved":true}
+[2017.12.12 19:33:42] init
+[2017.12.12 19:33:42] null
+[2017.12.12 19:33:43] checkAnswer
+[2017.12.12 19:33:43] {"is_solved":false,"fail_text":"\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442 \u043d\u0435 \u043c\u0430\u0441\u0441\u0438\u0432"}
+[2017.12.12 19:34:51] init
+[2017.12.12 19:34:51] null
+[2017.12.12 19:34:52] checkAnswer
+[2017.12.12 19:34:52] {"is_solved":true}
+[2017.12.12 19:37:01] init
+[2017.12.12 19:37:01] null
+[2017.12.12 19:37:02] checkAnswer
+[2017.12.12 19:37:02] {"is_solved":false,"fail_text":"\u041e\u043f\u0430\u043d\u044c\u043a\u0438"}
+[2017.12.12 19:39:55] init
+[2017.12.12 19:39:55] null
+[2017.12.12 19:39:56] checkAnswer
+[2017.12.12 19:39:56] {"is_solved":true}
+[2017.12.12 19:40:10] init
+[2017.12.12 19:40:10] null
+[2017.12.12 19:40:11] checkAnswer
+[2017.12.12 19:40:11] {"is_solved":false,"fail_text":"\u041e\u043f\u0430\u043d\u044c\u043a\u0438"}
+[2017.12.12 19:50:49] init
+[2017.12.12 19:50:49] null
+[2017.12.12 19:50:49] checkAnswer
+[2017.12.12 19:50:49] <br />
+[2017.12.12 19:50:49] <b>Fatal error</b>:  Call to undefined function file_put_content() in <b>/tmp/filestmp/task.php</b> on line <b>186</b><br />
+[2017.12.12 19:51:26] init
+[2017.12.12 19:51:26] null
+[2017.12.12 19:51:27] checkAnswer
+[2017.12.12 19:51:27] {"is_solved":false,"fail_text":"\u041e\u043f\u0430\u043d\u044c\u043a\u0438"}
+[2017.12.12 19:51:57] init
+[2017.12.12 19:51:57] null
+[2017.12.12 19:51:58] checkAnswer
+[2017.12.12 19:51:58] {"is_solved":false,"fail_text":"\u041e\u043f\u0430\u043d\u044c\u043a\u0438"}
+[2017.12.12 19:53:06] init
+[2017.12.12 19:53:06] null
+[2017.12.12 19:53:07] checkAnswer
+[2017.12.12 19:53:07] {"is_solved":false,"fail_text":"\u041e\u043f\u0430\u043d\u044c\u043a\u0438"}
+[2017.12.12 19:56:36] init
+[2017.12.12 19:56:36] null
+[2017.12.12 19:56:37] checkAnswer
+[2017.12.12 19:56:37] {"is_solved":false,"fail_text":"\u041e\u043f\u0430\u043d\u044c\u043a\u0438"}
+[2017.12.12 20:03:12] init
+[2017.12.12 20:03:12] <br />
+[2017.12.12 20:03:12] <b>Parse error</b>:  syntax error, unexpected 'JUSTLOG' (T_STRING) in <b>/tmp/filestmp/task.php</b> on line <b>144</b><br />
+[2017.12.12 20:03:12] checkAnswer
+[2017.12.12 20:03:12] <br />
+[2017.12.12 20:03:12] <b>Parse error</b>:  syntax error, unexpected 'JUSTLOG' (T_STRING) in <b>/tmp/filestmp/task.php</b> on line <b>144</b><br />
+[2017.12.12 20:04:40] init
+[2017.12.12 20:04:40] null
+[2017.12.12 20:04:42] checkAnswer
+[2017.12.12 20:04:42] {"is_solved":false,"fail_text":"\u041e\u043f\u0430\u043d\u044c\u043a\u0438"}
+[2017.12.12 20:15:01] init
+[2017.12.12 20:15:01] null
+[2017.12.12 20:15:08] checkAnswer
+[2017.12.12 20:15:08] {"is_solved":false,"fail_text":"\u041d\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u0435 \u0444\u0430\u0439\u043b\u0430"}
+[2017.12.12 20:16:37] init
+[2017.12.12 20:16:37] null
+[2017.12.12 20:16:39] checkAnswer
+[2017.12.12 20:16:39] {"is_solved":true}
+[2017.12.12 20:16:53] init
+[2017.12.12 20:16:53] null
+[2017.12.12 20:16:54] checkAnswer
+[2017.12.12 20:16:54] {"is_solved":false,"fail_text":"\u041d\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u0439"}
+[2017.12.12 20:17:06] init
+[2017.12.12 20:17:06] null
+[2017.12.12 20:17:07] checkAnswer
+[2017.12.12 20:17:07] {"is_solved":false,"fail_text":"\u041d\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u0435 \u0444\u0430\u0439\u043b\u0430"}
+[2017.12.12 20:22:08] init
+[2017.12.12 20:22:08] null
+[2017.12.12 20:22:09] checkAnswer
+[2017.12.12 20:22:09] {"is_solved":false,"fail_text":"\u041e\u043f\u0430\u043d\u044c\u043a\u0438"}
+[2017.12.12 20:23:35] init
+[2017.12.12 20:23:35] null
+[2017.12.12 20:23:36] checkAnswer
+[2017.12.12 20:23:36] {"result":true}
+[2017.12.12 20:23:45] init
+[2017.12.12 20:23:45] null
+[2017.12.12 20:23:46] checkAnswer
+[2017.12.12 20:23:46] {"result":true}
+[2017.12.12 20:25:02] init
+[2017.12.12 20:25:02] null
+[2017.12.12 20:25:02] checkAnswer
+[2017.12.12 20:25:02] {"is_solved":false,"errors":["\u0417\u0430\u043f\u0440\u0435\u0449\u0435\u043d\u043d\u043e \u043a \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044e: <b>array_merge<\/b>"],"warnings":["<b>\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438 \u0438\u0437 \u0442\u0435\u043c<\/b>:<br \/>"]}
+[2017.12.12 20:25:45] init
+[2017.12.12 20:25:45] null
+[2017.12.12 20:25:45] checkAnswer
+[2017.12.12 20:25:45] {"is_solved":false,"errors":["\u0417\u0430\u043f\u0440\u0435\u0449\u0435\u043d\u043d\u043e \u043a \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044e: <b>array_merge<\/b>"],"warnings":["<b>\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438 \u0438\u0437 \u0442\u0435\u043c<\/b>:<br \/>"]}
+[2017.12.12 20:27:08] init
+[2017.12.12 20:27:08] null
+[2017.12.12 20:27:10] checkAnswer
+[2017.12.12 20:27:10] {"is_solved":false,"fail_text":"\u041e\u043f\u0430\u043d\u044c\u043a\u0438"}
+[2017.12.12 20:28:39] init
+[2017.12.12 20:28:39] null
+[2017.12.12 20:28:41] checkAnswer
+[2017.12.12 20:28:41] {"is_solved":false,"fail_text":"\u041e\u043f\u0430\u043d\u044c\u043a\u0438"}
+[2017.12.12 20:32:16] init
+[2017.12.12 20:32:16] null
+[2017.12.12 20:32:18] checkAnswer
+[2017.12.12 20:32:18] {"is_solved":false,"fail_text":"\u041e\u043f\u0430\u043d\u044c\u043a\u0438"}
+[2017.12.12 20:34:42] init
+[2017.12.12 20:34:42] null
+[2017.12.12 20:34:43] checkAnswer
+[2017.12.12 20:34:43] {"is_solved":false,"fail_text":"\u041e\u043f\u0430\u043d\u044c\u043a\u0438"}
+[2017.12.12 20:36:55] init
+[2017.12.12 20:36:55] null
+[2017.12.12 20:36:57] checkAnswer
+[2017.12.12 20:36:57] {"is_solved":false,"fail_text":"\u041e\u043f\u0430\u043d\u044c\u043a\u0438"}
+[2017.12.12 20:37:29] init
+[2017.12.12 20:37:29] null
+[2017.12.12 20:37:30] checkAnswer
+[2017.12.12 20:37:30] {"is_solved":false,"fail_text":"\u041e\u043f\u0430\u043d\u044c\u043a\u0438"}
+[2017.12.12 20:38:03] init
+[2017.12.12 20:38:03] null
+[2017.12.12 20:38:05] checkAnswer
+[2017.12.12 20:38:05] {"is_solved":false,"fail_text":"\u041e\u043f\u0430\u043d\u044c\u043a\u0438"}
+[2017.12.12 20:38:32] init
+[2017.12.12 20:38:32] <br />
+[2017.12.12 20:38:32] <b>Parse error</b>:  syntax error, unexpected 'return' (T_RETURN) in <b>/tmp/filestmp/task.php</b> on line <b>145</b><br />
+[2017.12.12 20:38:32] checkAnswer
+[2017.12.12 20:38:32] <br />
+[2017.12.12 20:38:32] <b>Parse error</b>:  syntax error, unexpected 'return' (T_RETURN) in <b>/tmp/filestmp/task.php</b> on line <b>145</b><br />
+[2017.12.12 20:38:56] init
+[2017.12.12 20:38:56] null
+[2017.12.12 20:38:58] checkAnswer
+[2017.12.12 20:38:58] {"is_solved":false,"fail_text":"\u041d\u0430\u0439\u0434\u0435\u043d\u044b \u043d\u0435\u0432\u0435\u0440\u043d\u044b\u0435 \u0444\u0430\u0439\u043b\u044b"}
+[2017.12.12 20:39:11] init
+[2017.12.12 20:39:11] null
+[2017.12.12 20:39:13] checkAnswer
+[2017.12.12 20:39:13] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\nStrict Standards: Non-static method Solver_PHP_Task::search_files() should not be called statically in \/tmp\/files\/task.php on line 167\n<\/pre>"}
+[2017.12.12 20:39:41] init
+[2017.12.12 20:39:41] null
+[2017.12.12 20:39:43] checkAnswer
+[2017.12.12 20:39:43] <br />
+[2017.12.12 20:39:43] <b>Warning</b>:  file_get_contents(/tmp/filestmp/result.txt): failed to open stream: No such file or directory in <b>/var/www/html/revenge/lib/Solver/PHP/PHP.php</b> on line <b>101</b><br />
+[2017.12.12 20:39:43] <br />
+[2017.12.12 20:39:43] <b>Warning</b>:  file_get_contents(/tmp/filestmp/result.txt): failed to open stream: No such file or directory in <b>/var/www/html/revenge/lib/Solver/PHP/PHP.php</b> on line <b>101</b><br />
+[2017.12.12 20:39:43] null
+[2017.12.12 20:40:01] init
+[2017.12.12 20:40:01] null
+[2017.12.12 20:40:02] checkAnswer
+[2017.12.12 20:40:02] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\nStrict Standards: Non-static method Solver_PHP_Task::search_files() should not be called statically in \/tmp\/files\/task.php on line 167\n<\/pre>"}
+[2017.12.12 20:40:21] init
+[2017.12.12 20:40:21] null
+[2017.12.12 20:40:23] checkAnswer
+[2017.12.12 20:40:23] {"is_solved":true}
+[2017.12.12 20:43:11] init
+[2017.12.12 20:43:11] null
+[2017.12.12 20:43:12] checkAnswer
+[2017.12.12 20:43:12] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\nNotice: Array to string conversion in \/tmp\/files\/task.php on line 178\n\nNotice: Array to string conversion in \/tmp\/files\/task.php on line 178\n<\/pre>"}
+[2017.12.12 20:43:29] init
+[2017.12.12 20:43:29] null
+[2017.12.12 20:43:31] checkAnswer
+[2017.12.12 20:43:31] {"is_solved":true}
+[2017.12.12 20:44:50] init
+[2017.12.12 20:44:50] null
+[2017.12.12 20:44:52] checkAnswer
+[2017.12.12 20:44:52] {"is_solved":true}
+[2017.12.12 20:46:14] init
+[2017.12.12 20:46:14] null
+[2017.12.12 20:46:15] checkAnswer
+[2017.12.12 20:46:15] {"is_solved":true}
+[2017.12.12 20:46:36] init
+[2017.12.12 20:46:36] null
+[2017.12.12 20:46:37] checkAnswer
+[2017.12.12 20:46:37] {"is_solved":true}
+[2017.12.12 20:47:24] init
+[2017.12.12 20:47:24] <br />
+[2017.12.12 20:47:24] <b>Parse error</b>:  syntax error, unexpected '/' in <b>/tmp/filestmp/task.php</b> on line <b>165</b><br />
+[2017.12.12 20:47:24] checkAnswer
+[2017.12.12 20:47:24] <br />
+[2017.12.12 20:47:24] <b>Parse error</b>:  syntax error, unexpected '/' in <b>/tmp/filestmp/task.php</b> on line <b>165</b><br />
+[2017.12.12 20:47:52] init
+[2017.12.12 20:47:52] null
+[2017.12.12 20:47:53] checkAnswer
+[2017.12.12 20:47:53] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\nWarning: chdir(): No such file or directory (errno 2) in \/tmp\/files\/task.php on line 165\n<\/pre>"}
+[2017.12.12 20:48:29] init
+[2017.12.12 20:48:29] null
+[2017.12.12 20:48:31] checkAnswer
+[2017.12.12 20:48:31] {"is_solved":true}
+[2017.12.12 20:49:47] init
+[2017.12.12 20:49:47] null
+[2017.12.12 20:49:49] checkAnswer
+[2017.12.12 20:49:49] {"is_solved":true}
+[2017.12.12 20:52:31] init
+[2017.12.12 20:52:31] null
+[2017.12.12 20:52:33] checkAnswer
+[2017.12.12 20:52:33] {"is_solved":true}
+[2017.12.12 20:54:54] init
+[2017.12.12 20:54:54] null
+[2017.12.12 20:54:56] checkAnswer
+[2017.12.12 20:54:56] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2017.12.12 20:55:07] init
+[2017.12.12 20:55:07] null
+[2017.12.12 20:55:09] checkAnswer
+[2017.12.12 20:55:09] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2017.12.12 20:55:19] init
+[2017.12.12 20:55:19] null
+[2017.12.12 20:55:21] checkAnswer
+[2017.12.12 20:55:21] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2017.12.12 20:55:40] init
+[2017.12.12 20:55:40] null
+[2017.12.12 20:55:41] checkAnswer
+[2017.12.12 20:55:41] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2017.12.12 20:55:47] init
+[2017.12.12 20:55:47] null
+[2017.12.12 20:55:49] checkAnswer
+[2017.12.12 20:55:49] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2017.12.12 20:55:53] init
+[2017.12.12 20:55:53] null
+[2017.12.12 20:55:54] checkAnswer
+[2017.12.12 20:55:54] {"is_solved":true}
+[2017.12.12 20:56:17] init
+[2017.12.12 20:56:17] null
+[2017.12.12 20:56:19] checkAnswer
+[2017.12.12 20:56:19] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2017.12.12 20:56:33] init
+[2017.12.12 20:56:33] null
+[2017.12.12 20:56:34] checkAnswer
+[2017.12.12 20:56:34] {"is_solved":false,"fail_text":"\u041d\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0444\u0430\u0439\u043b\u043e\u0432"}
+[2017.12.12 20:56:59] init
+[2017.12.12 20:56:59] null
+[2017.12.12 20:57:00] checkAnswer
+[2017.12.12 20:57:00] {"is_solved":true}
+[2017.12.12 21:00:15] init
+[2017.12.12 21:00:15] null
+[2017.12.12 21:00:17] checkAnswer
+[2017.12.12 21:00:17] {"is_solved":true}
+[2017.12.12 21:01:25] init
+[2017.12.12 21:01:25] null
+[2017.12.12 21:01:27] checkAnswer
+[2017.12.12 21:01:27] {"is_solved":false,"fail_text":"\u041e\u043f\u0430\u043d\u044c\u043a\u0438"}
+[2017.12.12 21:06:16] init
+[2017.12.12 21:06:16] null
+[2017.12.12 21:06:17] checkAnswer
+[2017.12.12 21:06:17] {"is_solved":false,"fail_text":"\u041e\u043f\u0430\u043d\u044c\u043a\u0438"}
+[2017.12.12 21:06:38] init
+[2017.12.12 21:06:38] null
+[2017.12.12 21:06:39] checkAnswer
+[2017.12.12 21:06:39] {"is_solved":false,"fail_text":"\u041e\u043f\u0430\u043d\u044c\u043a\u0438"}
+[2017.12.12 21:07:31] init
+[2017.12.12 21:07:31] null
+[2017.12.12 21:07:33] checkAnswer
+[2017.12.12 21:07:33] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2017.12.12 21:07:46] init
+[2017.12.12 21:07:46] null
+[2017.12.12 21:07:48] checkAnswer
+[2017.12.12 21:07:48] {"is_solved":false,"fail_text":"\u041e\u043f\u0430\u043d\u044c\u043a\u0438"}
+[2017.12.12 21:08:04] init
+[2017.12.12 21:08:04] null
+[2017.12.12 21:08:06] checkAnswer
+[2017.12.12 21:08:06] {"is_solved":false,"fail_text":"\u041e\u043f\u0430\u043d\u044c\u043a\u0438"}
+[2017.12.12 21:08:24] init
+[2017.12.12 21:08:24] null
+[2017.12.12 21:08:25] checkAnswer
+[2017.12.12 21:08:25] {"is_solved":false,"fail_text":"\u041e\u043f\u0430\u043d\u044c\u043a\u0438"}
+[2017.12.12 21:08:43] init
+[2017.12.12 21:08:43] null
+[2017.12.12 21:08:44] checkAnswer
+[2017.12.12 21:08:44] {"is_solved":false,"fail_text":"\u041e\u043f\u0430\u043d\u044c\u043a\u0438"}
+[2017.12.12 21:09:06] init
+[2017.12.12 21:09:06] null
+[2017.12.12 21:09:07] checkAnswer
+[2017.12.12 21:09:07] {"is_solved":false,"fail_text":"\u041e\u043f\u0430\u043d\u044c\u043a\u0438"}
+[2017.12.12 21:09:27] init
+[2017.12.12 21:09:27] null
+[2017.12.12 21:09:29] checkAnswer
+[2017.12.12 21:09:29] {"is_solved":false,"fail_text":"\u041d\u0430\u0439\u0434\u0435\u043d\u044b \u043d\u0435\u0432\u0435\u0440\u043d\u044b\u0435 \u0444\u0430\u0439\u043b\u044b"}

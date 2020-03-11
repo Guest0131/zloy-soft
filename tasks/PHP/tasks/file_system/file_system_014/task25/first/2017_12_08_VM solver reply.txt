@@ -1,0 +1,180 @@
+[2017.12.08 21:29:42] init
+[2017.12.08 21:29:42] null
+[2017.12.08 21:29:44] checkAnswer
+[2017.12.08 21:29:44] {"is_solved":false,"errors":[null]}
+[2017.12.08 21:33:54] init
+[2017.12.08 21:33:54] null
+[2017.12.08 21:33:55] checkAnswer
+[2017.12.08 21:33:55] {"is_solved":false,"errors":[null]}
+[2017.12.08 21:38:45] init
+[2017.12.08 21:38:45] null
+[2017.12.08 21:38:46] checkAnswer
+[2017.12.08 21:38:46] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2017.12.08 21:39:05] init
+[2017.12.08 21:39:05] null
+[2017.12.08 21:39:06] checkAnswer
+[2017.12.08 21:39:06] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2017.12.08 21:39:26] init
+[2017.12.08 21:39:26] null
+[2017.12.08 21:39:27] checkAnswer
+[2017.12.08 21:39:27] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2017.12.08 21:41:04] init
+[2017.12.08 21:41:04] null
+[2017.12.08 21:41:05] checkAnswer
+[2017.12.08 21:41:05] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>BITE\nStrict Standards: Non-static method Solver_PHP_Task::toLog() should not be called statically in \/tmp\/files\/task.php on line 146\n<\/pre>"}
+[2017.12.08 21:41:54] init
+[2017.12.08 21:41:54] null
+[2017.12.08 21:41:55] checkAnswer
+[2017.12.08 21:41:55] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>BITE<\/pre>"}
+[2017.12.08 21:42:37] init
+[2017.12.08 21:42:37] null
+[2017.12.08 21:42:38] checkAnswer
+[2017.12.08 21:42:38] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>BITE<\/pre>"}
+[2017.12.08 21:43:26] init
+[2017.12.08 21:43:26] null
+[2017.12.08 21:43:27] checkAnswer
+[2017.12.08 21:43:27] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>BITE<\/pre>"}
+[2017.12.08 21:44:01] init
+[2017.12.08 21:44:01] null
+[2017.12.08 21:44:02] checkAnswer
+[2017.12.08 21:44:02] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2017.12.08 21:44:36] init
+[2017.12.08 21:44:36] null
+[2017.12.08 21:44:38] checkAnswer
+[2017.12.08 21:44:38] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>BITE2<\/pre>"}
+[2017.12.08 21:45:13] init
+[2017.12.08 21:45:13] null
+[2017.12.08 21:45:14] checkAnswer
+[2017.12.08 21:45:14] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2017.12.08 21:45:34] init
+[2017.12.08 21:45:34] null
+[2017.12.08 21:45:35] checkAnswer
+[2017.12.08 21:45:35] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2017.12.08 21:53:23] init
+[2017.12.08 21:53:23] null
+[2017.12.08 21:53:25] checkAnswer
+[2017.12.08 21:53:25] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2017.12.08 21:54:24] init
+[2017.12.08 21:54:24] null
+[2017.12.08 21:54:25] checkAnswer
+[2017.12.08 21:54:25] {"is_solved":false,"errors":["\nWarning: Runkit_Sandbox::eval(): Error executing sandbox code in \/tmp\/files\/task.php on line 152\n\nWarning: Runkit_Sandbox::eval(): Current sandbox is no longer active in \/tmp\/files\/task.php on line 155\n\nWarning: Runkit_Sandbox::__call(): Current sandbox is no longer active in \/tmp\/files\/task.php on line 156\nBITE3\nWarning: Runkit_Sandbox::__call(): Current sandbox is no longer active in \/tmp\/files\/task.php on line 173\nBITE4\nWarning: Runkit_Sandbox::__call(): Current sandbox is no longer active in \/tmp\/files\/task.php on line 176\n"]}
+[2017.12.08 21:55:28] init
+[2017.12.08 21:55:28] null
+[2017.12.08 21:55:29] checkAnswer
+[2017.12.08 21:55:29] {"is_solved":false,"errors":["\nWarning: Runkit_Sandbox::eval(): Error executing sandbox code in \/tmp\/files\/task.php on line 152\n\nWarning: Runkit_Sandbox::eval(): Current sandbox is no longer active in \/tmp\/files\/task.php on line 155\n\nWarning: Runkit_Sandbox::__call(): Current sandbox is no longer active in \/tmp\/files\/task.php on line 156\n\nWarning: Runkit_Sandbox::__call(): Current sandbox is no longer active in \/tmp\/files\/task.php on line 170\n\nWarning: Runkit_Sandbox::__call(): Current sandbox is no longer active in \/tmp\/files\/task.php on line 171\n"]}
+[2017.12.08 21:58:43] init
+[2017.12.08 21:58:43] null
+[2017.12.08 21:58:44] checkAnswer
+[2017.12.08 21:58:44] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2017.12.08 21:59:10] init
+[2017.12.08 21:59:10] null
+[2017.12.08 21:59:11] checkAnswer
+[2017.12.08 21:59:11] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2017.12.08 21:59:33] init
+[2017.12.08 21:59:33] null
+[2017.12.08 21:59:34] checkAnswer
+[2017.12.08 21:59:34] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2017.12.08 22:00:31] init
+[2017.12.08 22:00:31] null
+[2017.12.08 22:00:32] checkAnswer
+[2017.12.08 22:00:32] {"is_solved":false,"fail_text":"\u041d\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u0435 \u0444\u0430\u0439\u043b\u0430"}
+[2017.12.08 22:01:47] init
+[2017.12.08 22:01:47] null
+[2017.12.08 22:01:48] checkAnswer
+[2017.12.08 22:01:48] {"is_solved":false,"fail_text":"\u041d\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u0435 \u0444\u0430\u0439\u043b\u0430"}
+[2017.12.08 22:02:38] init
+[2017.12.08 22:02:38] null
+[2017.12.08 22:02:39] checkAnswer
+[2017.12.08 22:02:39] {"is_solved":false,"fail_text":"\u041d\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u0435 \u0444\u0430\u0439\u043b\u0430"}
+[2017.12.08 22:03:31] init
+[2017.12.08 22:03:31] null
+[2017.12.08 22:03:32] checkAnswer
+[2017.12.08 22:03:32] {"is_solved":false,"fail_text":"\u041d\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u0435 \u0444\u0430\u0439\u043b\u0430"}
+[2017.12.08 22:04:30] init
+[2017.12.08 22:04:30] null
+[2017.12.08 22:04:31] checkAnswer
+[2017.12.08 22:04:31] {"is_solved":false,"fail_text":"\u041d\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u0435 \u0444\u0430\u0439\u043b\u0430"}
+[2017.12.08 22:06:29] init
+[2017.12.08 22:06:29] null
+[2017.12.08 22:06:30] checkAnswer
+[2017.12.08 22:06:30] {"is_solved":false,"fail_text":"\u041d\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u0435 \u0444\u0430\u0439\u043b\u0430"}
+[2017.12.08 22:07:08] init
+[2017.12.08 22:07:08] null
+[2017.12.08 22:07:09] checkAnswer
+[2017.12.08 22:07:09] {"is_solved":false,"fail_text":"\u041d\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u0435 \u0444\u0430\u0439\u043b\u0430"}
+[2017.12.08 22:08:06] init
+[2017.12.08 22:08:06] null
+[2017.12.08 22:08:07] checkAnswer
+[2017.12.08 22:08:07] {"is_solved":false,"fail_text":"\u041d\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u0435 \u0444\u0430\u0439\u043b\u0430"}
+[2017.12.08 22:08:28] init
+[2017.12.08 22:08:28] null
+[2017.12.08 22:08:29] checkAnswer
+[2017.12.08 22:08:29] {"is_solved":false,"fail_text":"\u041d\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u0435 \u0444\u0430\u0439\u043b\u0430"}
+[2017.12.08 22:10:36] init
+[2017.12.08 22:10:36] null
+[2017.12.08 22:10:37] checkAnswer
+[2017.12.08 22:10:37] {"is_solved":false,"fail_text":"\u041d\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u0435 \u0444\u0430\u0439\u043b\u0430"}
+[2017.12.08 22:11:12] init
+[2017.12.08 22:11:12] null
+[2017.12.08 22:11:13] checkAnswer
+[2017.12.08 22:11:13] {"is_solved":false,"fail_text":"\u041d\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u0435 \u0444\u0430\u0439\u043b\u0430"}
+[2017.12.08 22:13:14] init
+[2017.12.08 22:13:14] null
+[2017.12.08 22:13:15] checkAnswer
+[2017.12.08 22:13:15] {"is_solved":false,"fail_text":"\u041d\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u0435 \u0444\u0430\u0439\u043b\u0430"}
+[2017.12.08 22:15:42] init
+[2017.12.08 22:15:42] null
+[2017.12.08 22:15:43] checkAnswer
+[2017.12.08 22:15:43] {"is_solved":false,"fail_text":"\u041d\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u0435 \u0444\u0430\u0439\u043b\u0430"}
+[2017.12.08 22:17:20] init
+[2017.12.08 22:17:20] null
+[2017.12.08 22:17:21] checkAnswer
+[2017.12.08 22:17:21] {"is_solved":false,"fail_text":"\u041d\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u0435 \u0444\u0430\u0439\u043b\u0430"}
+[2017.12.08 22:19:26] init
+[2017.12.08 22:19:26] null
+[2017.12.08 22:19:26] checkAnswer
+[2017.12.08 22:19:26] {"is_solved":false,"fail_text":"\u041d\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u0435 \u0444\u0430\u0439\u043b\u0430"}
+[2017.12.08 22:21:16] init
+[2017.12.08 22:21:16] null
+[2017.12.08 22:21:17] checkAnswer
+[2017.12.08 22:21:17] {"is_solved":false,"fail_text":"\u041d\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u0435 \u0444\u0430\u0439\u043b\u0430"}
+[2017.12.08 22:22:57] init
+[2017.12.08 22:22:57] <br />
+[2017.12.08 22:22:57] <b>Parse error</b>:  syntax error, unexpected ';', expecting function (T_FUNCTION) in <b>/tmp/filestmp1/task.php</b> on line <b>111</b><br />
+[2017.12.08 22:22:57] checkAnswer
+[2017.12.08 22:22:57] <br />
+[2017.12.08 22:22:57] <b>Parse error</b>:  syntax error, unexpected ';', expecting function (T_FUNCTION) in <b>/tmp/filestmp1/task.php</b> on line <b>111</b><br />
+[2017.12.08 22:27:18] init
+[2017.12.08 22:27:18] null
+[2017.12.08 22:27:19] checkAnswer
+[2017.12.08 22:27:19] {"is_solved":false,"fail_text":"\u041d\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u0435 \u0444\u0430\u0439\u043b\u0430"}
+[2017.12.08 22:37:53] init
+[2017.12.08 22:37:53] <br />
+[2017.12.08 22:37:53] <b>Parse error</b>:  syntax error, unexpected ';', expecting function (T_FUNCTION) in <b>/tmp/filestmp1/task.php</b> on line <b>109</b><br />
+[2017.12.08 22:37:53] checkAnswer
+[2017.12.08 22:37:53] <br />
+[2017.12.08 22:37:53] <b>Parse error</b>:  syntax error, unexpected ';', expecting function (T_FUNCTION) in <b>/tmp/filestmp1/task.php</b> on line <b>109</b><br />
+[2017.12.08 22:42:04] init
+[2017.12.08 22:42:04] null
+[2017.12.08 22:42:06] checkAnswer
+[2017.12.08 22:42:06] {"is_solved":false,"fail_text":"\u041d\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u0435 \u0444\u0430\u0439\u043b\u0430"}
+[2017.12.08 22:53:55] init
+[2017.12.08 22:53:55] null
+[2017.12.08 22:53:56] checkAnswer
+[2017.12.08 22:53:56] {"is_solved":false,"fail_text":"\u041d\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u0435 \u0444\u0430\u0439\u043b\u0430"}
+[2017.12.08 22:58:53] init
+[2017.12.08 22:58:53] null
+[2017.12.08 22:58:54] checkAnswer
+[2017.12.08 22:58:54] {"is_solved":false,"errors":[null]}
+[2017.12.08 23:15:19] init
+[2017.12.08 23:15:19] null
+[2017.12.08 23:15:20] checkAnswer
+[2017.12.08 23:15:20] {"is_solved":false,"fail_text":"\u041d\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u0435 \u0444\u0430\u0439\u043b\u0430"}
+[2017.12.08 23:27:20] init
+[2017.12.08 23:27:20] null
+[2017.12.08 23:27:22] checkAnswer
+[2017.12.08 23:27:22] {"is_solved":false,"errors":[null]}
+[2017.12.08 23:27:55] init
+[2017.12.08 23:27:55] null
+[2017.12.08 23:27:56] checkAnswer
+[2017.12.08 23:27:56] {"is_solved":false,"errors":[null]}

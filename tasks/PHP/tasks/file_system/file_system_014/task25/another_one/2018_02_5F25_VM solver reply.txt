@@ -1,0 +1,223 @@
+[2018.02.25 14:11:08] init
+[2018.02.25 14:11:08] null
+[2018.02.25 14:11:09] checkAnswer
+[2018.02.25 14:11:09] <br />
+[2018.02.25 14:11:09] <b>Fatal error</b>:  Cannot use object of type stdClass as array in <b>/tmp/filestmp/task.php</b> on line <b>55</b><br />
+[2018.02.25 14:11:59] init
+[2018.02.25 14:11:59] null
+[2018.02.25 14:12:01] checkAnswer
+[2018.02.25 14:12:01] <br />
+[2018.02.25 14:12:01] <b>Fatal error</b>:  Cannot use object of type stdClass as array in <b>/tmp/filestmp/task.php</b> on line <b>59</b><br />
+[2018.02.25 14:14:20] init
+[2018.02.25 14:14:20] null
+[2018.02.25 14:14:21] checkAnswer
+[2018.02.25 14:14:21] <br />
+[2018.02.25 14:14:21] <b>Fatal error</b>:  Cannot use object of type stdClass as array in <b>/tmp/filestmp/task.php</b> on line <b>59</b><br />
+[2018.02.25 15:58:16] init
+[2018.02.25 15:58:16] null
+[2018.02.25 15:58:20] checkAnswer
+[2018.02.25 15:58:20] <br />
+[2018.02.25 15:58:20] <b>Fatal error</b>:  Cannot use object of type stdClass as array in <b>/tmp/filestmp/task.php</b> on line <b>59</b><br />
+[2018.02.25 16:34:42] init
+[2018.02.25 16:34:42] null
+[2018.02.25 16:34:44] checkAnswer
+[2018.02.25 16:34:44] <br />
+[2018.02.25 16:34:44] <b>Fatal error</b>:  Cannot use object of type stdClass as array in <b>/tmp/filestmp/task.php</b> on line <b>55</b><br />
+[2018.02.25 16:34:47] init
+[2018.02.25 16:34:47] null
+[2018.02.25 16:34:49] checkAnswer
+[2018.02.25 16:34:49] <br />
+[2018.02.25 16:34:49] <b>Fatal error</b>:  Cannot use object of type stdClass as array in <b>/tmp/filestmp/task.php</b> on line <b>55</b><br />
+[2018.02.25 16:35:15] init
+[2018.02.25 16:35:15] null
+[2018.02.25 16:35:16] checkAnswer
+[2018.02.25 16:35:16] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre> Undefined variable: user_counter <br \/> Undefined variable: user_counter <br \/> Undefined variable: user_counter <br \/> Undefined variable: user_counter <\/pre>"}
+[2018.02.25 16:36:46] init
+[2018.02.25 16:36:46] null
+[2018.02.25 16:36:47] checkAnswer
+[2018.02.25 16:36:47] {"is_solved":true}
+[2018.02.25 16:37:00] init
+[2018.02.25 16:37:00] null
+[2018.02.25 16:37:01] checkAnswer
+[2018.02.25 16:37:01] {"is_solved":false,"fail_text":"\u0417\u0430\u0434\u0430\u0447\u0430 \u0440\u0435\u0448\u0435\u043d\u0430 \u043d\u0435\u0432\u0435\u0440\u043d\u043e"}
+[2018.02.25 21:32:57] init
+[2018.02.25 21:32:57] null
+[2018.02.25 21:32:59] checkAnswer
+[2018.02.25 21:32:59] {"is_solved":true}
+[2018.02.25 21:40:51] init
+[2018.02.25 21:40:51] null
+[2018.02.25 21:40:53] checkAnswer
+[2018.02.25 21:40:53] {"is_solved":false,"fail_text":"\u0417\u0430\u0434\u0430\u0447\u0430 \u0440\u0435\u0448\u0435\u043d\u0430 \u043d\u0435\u0432\u0435\u0440\u043d\u043e"}
+[2018.02.25 21:41:19] init
+[2018.02.25 21:41:19] null
+[2018.02.25 21:41:20] checkAnswer
+[2018.02.25 21:41:20] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2018.02.25 21:56:24] init
+[2018.02.25 21:56:24] null
+[2018.02.25 21:56:25] checkAnswer
+[2018.02.25 21:56:25] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre> Unknown: Function not defined <br \/> Unknown: Function not defined <br \/> Unknown: Function not defined <br \/> Unknown: Function not defined <br \/> Unknown: Function not defined <br \/> Unknown: Function not defined <br \/> Unknown: Function not defined <br \/> Unknown: Function not defined <\/pre>"}
+[2018.02.25 22:00:42] init
+[2018.02.25 22:00:42] null
+[2018.02.25 22:00:43] checkAnswer
+[2018.02.25 22:00:43] {"is_solved":true}
+[2018.02.25 22:00:48] init
+[2018.02.25 22:00:48] null
+[2018.02.25 22:00:49] checkAnswer
+[2018.02.25 22:00:49] {"is_solved":true}
+[2018.02.25 22:01:01] init
+[2018.02.25 22:01:01] null
+[2018.02.25 22:01:03] checkAnswer
+[2018.02.25 22:01:03] {"is_solved":false,"fail_text":"\u0417\u0430\u0434\u0430\u0447\u0430 \u0440\u0435\u0448\u0435\u043d\u0430 \u043d\u0435\u0432\u0435\u0440\u043d\u043e"}
+[2018.02.25 22:01:15] init
+[2018.02.25 22:01:15] null
+[2018.02.25 22:01:17] checkAnswer
+[2018.02.25 22:01:17] {"is_solved":true}
+[2018.02.25 22:01:22] init
+[2018.02.25 22:01:22] null
+[2018.02.25 22:01:23] checkAnswer
+[2018.02.25 22:01:23] {"is_solved":false,"fail_text":"\u0417\u0430\u0434\u0430\u0447\u0430 \u0440\u0435\u0448\u0435\u043d\u0430 \u043d\u0435\u0432\u0435\u0440\u043d\u043e"}
+[2018.02.25 22:01:30] init
+[2018.02.25 22:01:30] null
+[2018.02.25 22:01:31] checkAnswer
+[2018.02.25 22:01:31] {"is_solved":true}
+[2018.02.25 22:01:59] init
+[2018.02.25 22:01:59] null
+[2018.02.25 22:02:01] checkAnswer
+[2018.02.25 22:02:01] {"is_solved":false,"fail_text":"\u0417\u0430\u0434\u0430\u0447\u0430 \u0440\u0435\u0448\u0435\u043d\u0430 \u043d\u0435\u0432\u0435\u0440\u043d\u043e"}
+[2018.02.25 22:02:08] init
+[2018.02.25 22:02:08] null
+[2018.02.25 22:02:09] checkAnswer
+[2018.02.25 22:02:09] {"is_solved":true}
+[2018.02.25 22:02:14] init
+[2018.02.25 22:02:14] null
+[2018.02.25 22:02:15] checkAnswer
+[2018.02.25 22:02:15] {"is_solved":true}
+[2018.02.25 22:02:19] init
+[2018.02.25 22:02:19] null
+[2018.02.25 22:02:20] checkAnswer
+[2018.02.25 22:02:20] {"is_solved":false,"fail_text":"\u0417\u0430\u0434\u0430\u0447\u0430 \u0440\u0435\u0448\u0435\u043d\u0430 \u043d\u0435\u0432\u0435\u0440\u043d\u043e"}
+[2018.02.25 22:03:12] init
+[2018.02.25 22:03:12] null
+[2018.02.25 22:03:12] checkAnswer
+[2018.02.25 22:03:12] {"is_solved":false,"errors":["\u0417\u0430\u043f\u0440\u0435\u0449\u0435\u043d\u043d\u043e \u043a \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044e: <b>preg_match<\/b>"],"warnings":["<b>\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438 \u0438\u0437 \u0442\u0435\u043c<\/b>:<br \/>\u0420\u0430\u0431\u043e\u0442\u0430 \u0441 \u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u043c\u0438 (http:\/\/php.net\/manual\/en\/ref.var.php)<br \/>\u0421\u0442\u0440\u043e\u043a\u043e\u0432\u044b\u0435 \u0444\u0443\u043d\u043a\u0446\u0438\u0438 (http:\/\/php.net\/manual\/en\/ref.strings.php)<br \/>\u041c\u043d\u043e\u0433\u043e\u0431\u0430\u0439\u0442\u043e\u0432\u044b\u0435 \u0441\u0442\u0440\u043e\u043a\u0438 (http:\/\/php.net\/manual\/en\/ref.mbstring.php)<br \/>\u041c\u0430\u0441\u0441\u0438\u0432\u044b (http:\/\/php.net\/manual\/en\/ref.array.php)<br \/>\u0414\u0430\u0442\u0430 \u0438 \u0432\u0440\u0435\u043c\u044f (http:\/\/php.net\/manual\/ru\/ref.datetime.php)<br \/>\u0421\u0435\u0441\u0441\u0438\u0438 (http:\/\/php.net\/manual\/ru\/ref.session.php)<br \/><b>\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u0444\u0443\u043d\u043a\u0446\u0438\u0438<\/b>:<br \/>touch<br \/>file_get_contents<br \/>file_put_contents<br \/>sleep<br \/>usleep"]}
+[2018.02.25 22:04:10] init
+[2018.02.25 22:04:10] null
+[2018.02.25 22:04:12] checkAnswer
+[2018.02.25 22:04:12] {"is_solved":true}
+[2018.02.25 22:04:21] init
+[2018.02.25 22:04:21] null
+[2018.02.25 22:04:22] checkAnswer
+[2018.02.25 22:04:22] {"is_solved":true}
+[2018.02.25 22:04:52] init
+[2018.02.25 22:04:52] null
+[2018.02.25 22:04:54] checkAnswer
+[2018.02.25 22:04:54] {"is_solved":true}
+[2018.02.25 22:05:25] init
+[2018.02.25 22:05:25] null
+[2018.02.25 22:05:26] checkAnswer
+[2018.02.25 22:05:26] {"is_solved":true}
+[2018.02.25 22:05:58] init
+[2018.02.25 22:05:58] null
+[2018.02.25 22:06:00] checkAnswer
+[2018.02.25 22:06:00] {"is_solved":false,"fail_text":"\u0417\u0430\u0434\u0430\u0447\u0430 \u0440\u0435\u0448\u0435\u043d\u0430 \u043d\u0435\u0432\u0435\u0440\u043d\u043e"}
+[2018.02.25 22:08:48] init
+[2018.02.25 22:08:48] null
+[2018.02.25 22:08:49] checkAnswer
+[2018.02.25 22:08:49] {"is_solved":true}
+[2018.02.25 22:09:01] init
+[2018.02.25 22:09:01] null
+[2018.02.25 22:09:03] checkAnswer
+[2018.02.25 22:09:03] {"is_solved":true}
+[2018.02.25 22:09:15] init
+[2018.02.25 22:09:15] null
+[2018.02.25 22:09:16] checkAnswer
+[2018.02.25 22:09:16] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre> Undefined offset: 3 <br \/> Undefined offset: 3 <br \/> Undefined offset: 3 <br \/> Undefined offset: 3 <\/pre>"}
+[2018.02.25 22:13:53] init
+[2018.02.25 22:13:53] null
+[2018.02.25 22:13:55] checkAnswer
+[2018.02.25 22:21:35] init
+[2018.02.25 22:21:35] null
+[2018.02.25 22:21:37] checkAnswer
+[2018.02.25 22:21:37] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre> preg_match(): Unknown modifier '(' <br \/> preg_match(): Unknown modifier '(' <br \/> preg_match(): Unknown modifier '(' <br \/> preg_match(): Unknown modifier '(' <\/pre>"}
+[2018.02.25 22:21:47] init
+[2018.02.25 22:21:47] null
+[2018.02.25 22:21:48] checkAnswer
+[2018.02.25 22:21:48] {"is_solved":true}
+[2018.02.25 22:21:56] init
+[2018.02.25 22:21:56] null
+[2018.02.25 22:21:57] checkAnswer
+[2018.02.25 22:21:57] {"is_solved":true}
+[2018.02.25 22:29:49] init
+[2018.02.25 22:29:49] <br />
+[2018.02.25 22:29:49] <b>Parse error</b>:  syntax error, unexpected 'firefox_24_7' (T_STRING) in <b>/tmp/filestmp/task.php</b> on line <b>97</b><br />
+[2018.02.25 22:29:49] checkAnswer
+[2018.02.25 22:29:49] <br />
+[2018.02.25 22:29:49] <b>Parse error</b>:  syntax error, unexpected 'firefox_24_7' (T_STRING) in <b>/tmp/filestmp/task.php</b> on line <b>97</b><br />
+[2018.02.25 22:30:19] init
+[2018.02.25 22:30:19] null
+[2018.02.25 22:30:20] checkAnswer
+[2018.02.25 22:30:20] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre>\u041e\u0448\u0438\u0431\u043a\u0430 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0430 \u0432 PHP-\u043f\u0435\u0441\u043e\u0447\u043d\u0438\u0446\u0435.<\/pre>"}
+[2018.02.25 22:30:37] init
+[2018.02.25 22:30:37] null
+[2018.02.25 22:30:38] checkAnswer
+[2018.02.25 22:30:38] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre> Undefined index: HTTP_USER_AGENT <\/pre>"}
+[2018.02.25 22:31:58] init
+[2018.02.25 22:31:58] null
+[2018.02.25 22:31:59] checkAnswer
+[2018.02.25 22:31:59] {"is_solved":true}
+[2018.02.25 22:33:34] init
+[2018.02.25 22:33:34] null
+[2018.02.25 22:33:35] checkAnswer
+[2018.02.25 22:33:35] {"is_solved":true}
+[2018.02.25 22:33:56] init
+[2018.02.25 22:33:56] null
+[2018.02.25 22:33:57] checkAnswer
+[2018.02.25 22:33:57] {"is_solved":false,"fail_text":"\u0417\u0430\u0434\u0430\u0447\u0430 \u0440\u0435\u0448\u0435\u043d\u0430 \u043d\u0435\u0432\u0435\u0440\u043d\u043e"}
+[2018.02.25 22:34:19] init
+[2018.02.25 22:34:19] null
+[2018.02.25 22:34:20] checkAnswer
+[2018.02.25 22:34:20] {"is_solved":true}
+[2018.02.25 22:34:40] init
+[2018.02.25 22:34:40] null
+[2018.02.25 22:34:41] checkAnswer
+[2018.02.25 22:34:41] {"is_solved":true}
+[2018.02.25 22:35:17] init
+[2018.02.25 22:35:17] null
+[2018.02.25 22:35:19] checkAnswer
+[2018.02.25 22:35:19] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre> syntax error, unexpected end of file <\/pre>"}
+[2018.02.25 22:35:40] init
+[2018.02.25 22:35:40] null
+[2018.02.25 22:35:42] checkAnswer
+[2018.02.25 22:35:42] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre> syntax error, unexpected end of file <\/pre>"}
+[2018.02.25 22:36:02] init
+[2018.02.25 22:36:02] null
+[2018.02.25 22:36:03] checkAnswer
+[2018.02.25 22:36:03] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre> syntax error, unexpected end of file <\/pre>"}
+[2018.02.25 22:36:27] init
+[2018.02.25 22:36:27] null
+[2018.02.25 22:36:28] checkAnswer
+[2018.02.25 22:36:28] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre> syntax error, unexpected end of file <\/pre>"}
+[2018.02.25 22:38:28] init
+[2018.02.25 22:38:28] null
+[2018.02.25 22:38:29] checkAnswer
+[2018.02.25 22:38:29] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre> syntax error, unexpected end of file <\/pre>"}
+[2018.02.25 22:38:43] init
+[2018.02.25 22:38:43] null
+[2018.02.25 22:38:44] checkAnswer
+[2018.02.25 22:38:44] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre> syntax error, unexpected end of file <\/pre>"}
+[2018.02.25 22:39:08] init
+[2018.02.25 22:39:08] null
+[2018.02.25 22:39:09] checkAnswer
+[2018.02.25 22:39:09] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre> syntax error, unexpected end of file <\/pre>"}
+[2018.02.25 22:39:44] init
+[2018.02.25 22:39:44] null
+[2018.02.25 22:39:45] checkAnswer
+[2018.02.25 22:39:45] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre> syntax error, unexpected end of file <\/pre>"}
+[2018.02.25 22:40:02] init
+[2018.02.25 22:40:02] null
+[2018.02.25 22:40:03] checkAnswer
+[2018.02.25 22:40:03] {"is_solved":false,"fail_text":"<b>\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u0435\u043c\u044b\u0439 \u0432\u044b\u0432\u043e\u0434<\/b>:<br \/><pre> Undefined index: HTTP_USER_AGENT <\/pre>"}
+[2018.02.25 22:40:32] init
+[2018.02.25 22:40:32] null
+[2018.02.25 22:40:33] checkAnswer
+[2018.02.25 22:40:33] {"is_solved":true}

@@ -1,0 +1,439 @@
+@charset "UTF-8";
+
+/* Общие стили */
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	border-collapse: collapse
+}
+
+body {
+	font-family: 'Poppins';
+	background-color: #fff;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 24px
+}
+
+table {
+	margin-top: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 88%
+}
+
+td {
+	vertical-align: top
+}
+
+a {
+	text-decoration: none;
+	color: #757575
+}
+/* Становятся красными при наведении */
+a:hover {
+	text-decoration: none;
+	color: red
+}
+
+div {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	box-sizing: border-box
+}
+
+/* Стили верхней панели */
+.top_menu_background {
+	width: 100%
+}
+
+.top_menu {
+	position: relative;
+	width: 1171px;
+	margin: auto;
+	height: 130px
+}
+
+.top_menu>div {
+	height: 130px;
+	float: left;
+	display: inline-block
+}
+
+.top_menu_logo {
+	width: 16.666%;
+	text-align: left;
+	line-height: 24px;
+	padding-top: 54px
+}
+
+.top_menu_navigator {
+	width: 66.666%;
+	padding-top: 53px
+}
+
+.top_menu_navigator>ul>li {
+	padding: 0 18px;
+	list-style-type: none;
+	display: inline
+}
+
+.top_menu_navigator>ul>li>a {
+	letter-spacing: .1px;
+	font-size: 15px;
+	font-weight: 500
+}
+
+.top_menu_quickbuttons {
+	width: 16.666%;
+	padding-top: 56px
+}
+
+.top_menu_quickbuttons>ul>li {
+	padding: 0 0 0 24px;
+	list-style-type: none;
+	display: inline
+}
+
+/* Спецсимволы в панели быстрого доступа, выраженные через шрифт */
+a::before {
+	font-family: 'themify';
+	font-size: 19px
+}
+
+.top_menu_quickbuttons_cart>a::before {
+	content: "\e60d"
+}
+
+.top_menu_quickbuttons_search>a::before {
+	content: "\e610"
+}
+
+.top_menu_quickbuttons_login>a::before {
+	content: "\e602"
+}
+
+.top_menu_quickbuttons_menu>a::before {
+	content: "\e68e"
+}
+
+/* Стили главной части страницы */
+.main_viewport {
+	width: 1171px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 100px
+}
+
+.main_viewport>div {
+	display: inline-block
+}
+
+/* Стили меню выбора категории */
+.left_menu {
+	width: 270px;
+	vertical-align: top;
+}
+
+.left_menu_top {
+	box-sizing: border-box;
+	text-align: left;
+	border-color: #E6E6E6;
+	background-color: #303030
+}
+
+.left_menu_top>h3 {
+	display: block;
+	padding: 11px 0 10px 20px;
+	color: #fff;
+	font-size: 16px;
+	font-weight: 400;
+	letter-spacing: 1px;
+	margin-right: 20px
+}
+
+.left_menu_top>h3::before {
+	content: "\e68e  ";
+	font-family: 'themify';
+	font-size: 17px
+}
+
+.left_menu_categories {
+	width: 100%;
+	border: 1px solid rgba(129,129,129,0.2)
+}
+
+.left_menu_categories>ul {
+	list-style: none
+}
+
+.left_menu_categories>ul>li {
+	position: relative;
+	list-style-type: none;
+	text-align: left;
+	border-right: solid 1px;
+	border-left: solid 1px;
+	border-bottom: solid 1px;
+	border-color: #E6E6E6;
+	height: 45px
+}
+
+.left_menu_categories>ul>li:hover {
+	background-color: #F9F9F9
+}
+
+.left_menu_categories>ul>li>a {
+	display: block;
+	padding: 10px 20px;
+	letter-spacing: .4px;
+	font-size: 14px;
+	color: #000;
+	text-transform: capitalize;
+}
+
+.left_menu_categories>ul>li>a>span::before {
+	float: right;
+	padding-top: 2px;
+	padding-right: 20px;
+	content: "\e649";
+	font-family: 'themify';
+	font-size: 8px;
+	color: #000
+}
+
+.left_menu_categories>ul>li>a>img {
+	position: relative;
+	vertical-align: middle;
+	width: 15px;
+	padding-right: 9px;
+	padding-bottom: 3px
+}
+
+/* Стили для картинки справа от каталога */
+.main_picture {
+	margin-left: 30px;
+	width: 73.11%;
+	height: 495px;
+	background-image: url(images/Main.png);
+	background-color: rgba(0,0,0,0);
+	background-repeat: no-repeat;
+	background-clip: border-box;
+	background-origin: padding-box;
+	background-size: contain;
+}
+
+/* Стили для таблицы с товарами */
+.gallery_background {
+	width: 100%
+}
+
+.gallery {
+	width: 1221px;
+	margin: auto
+}
+
+/* Стили для меню над таблицей с товарами */
+.gallery_navigation {
+	text-align: center;
+	margin-bottom: 10px
+}
+
+.gallery_navigation>ul>li {
+	display: inline;
+	text-transform: uppercase;
+	margin-left: 15px;
+	margin-right: 15px;
+	font-size: 18px;
+	font-weight: 500
+}
+
+.gallery_list {
+	list-style-type: none;
+	text-align: center
+}
+
+.gallery_list_row>div {
+	width: 24%;
+	display: inline-block;
+	margin-top: 60px
+}
+/* Стили описания товаров */
+.gallery_list_row_desc {
+	list-style-type: none;
+	text-align: center
+}
+
+.gallery_list_row_desc>div {
+	width: 24%;
+	display: inline-block;
+	margin-top: 20px
+}
+
+.old_price {
+	color: #9D9C9C;
+	text-decoration: line-through;
+	text-align: center
+}
+
+.new_price {
+	padding-left: 10px;
+	color: #FF4136;
+	text-align: center
+}
+
+/* Стили нижней панели */
+.footer_background {
+	margin-top: 150px;
+	position: absolute;
+	width: 100%;
+	background-color: #f6f6f6
+}
+
+.footer_background>div {
+	display: flex
+}
+
+.footer {
+	width: 1171px;
+	margin: auto
+}
+
+.footer>div {
+	float: left;
+	display: inline-block;
+	margin-top: 60px;
+	text-align: left
+}
+
+.footer>div>ul {
+	list-style: none
+}
+
+.footer>div>ul>li {
+	color: #666;
+	font-size: 14px;
+	line-height: 30px
+}
+
+.footer>div>h3 {
+	margin-bottom: 25px;
+	font-size: 18px;
+	font-weight: 500;
+	color: #444
+}
+
+/* Стили разделов нижней панели */
+.footer_contacts {
+	width: 25.6%
+}
+
+.footer_contacts>img {
+	margin-bottom: 18px
+}
+
+.footer_contacts>ul>li {
+	padding-top: 15px
+}
+
+.footer_contacts>ul>li>img {
+	width: 18px;
+	margin-right: 16px
+}
+
+.footer_categories {
+	width: 17%
+}
+
+.footer_information {
+	width: 22%
+}
+
+.footer_subscribe {
+	padding-left: 44px;
+	width: 35%
+}
+
+.footer_subscribe>span {
+	font-size: 14px
+}
+
+.footer_subscribe>div {
+	float: left;
+	display: inline-block;
+	margin-top: 10px
+}
+
+/* Стили для формы отправки емейла */
+.footer_subscribe_input>input {
+	font-size: 14px;
+	width: 200px;
+	padding-left: 10px;
+	border-left: 1px solid #d9d9d9;
+	color: #666;
+	height: 40px;
+	border: 1px solid #d9d9d9
+}
+
+.footer_subscribe_btn>input {
+	font-size: 14px;
+	color: #666;
+	height: 42px;
+	border: 1px solid #d9d9d9;
+	background-image: url(../images/send.png);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: 29% auto;
+	position: relative
+}
+
+.footer_subscribe_btn>input::placeholder {
+	color: #000
+}
+
+/* Стили нижней строки страницы */
+.footer_additional {
+	border-top: 1px;
+	border-top-color: #d9d9d9;
+	border-top-style: solid;
+	width: 1171px;
+	margin: 50px auto auto;
+	padding-top: 20px;
+	padding-bottom: 20px
+}
+
+.footer_additional>div {
+	display: inline-block
+}
+
+.footer_copyright {
+	color: #666;
+	font-size: 14px;
+	float: left
+}
+
+.footer_menu {
+	margin-left: 756px
+}
+
+.footer_menu>ul>li {
+	display: inline;
+	list-style-type: none;
+	text-align: right;
+	padding-left: 15px;
+	font-size: 13px
+}
+
+/* Подключение шрифтов */
+@font-face {
+	font-family: 'Poppins';
+	src: local('Poppins Regular'),local(Poppins-Regular),url(Poppinsregular.woff2) format("woff2"),url(Poppinsregular.woff) format("woff"),url(Poppinsregular.ttf) format("truetype");
+	font-weight: 400;
+	font-style: normal
+}
+
+@font-face {
+	font-family: 'themify';
+	src: url(themify.woff) format("woff")
+}
